@@ -1,7 +1,7 @@
 package joelbits.modules.analysis.plugins.mappers;
 
 import joelbits.modules.analysis.plugins.utils.AnalysisUtil;
-import joelbits.modules.analysis.visitors.BenchmarkConfigurationVisitor;
+import joelbits.modules.analysis.plugins.visitors.BenchmarkConfigurationVisitor;
 import joelbits.model.ast.ASTRoot;
 import joelbits.model.project.CodeRepository;
 import joelbits.model.project.Project;
@@ -18,12 +18,13 @@ import java.util.Set;
 
 public final class BenchmarkConfigurationMapper extends Mapper<Text, BytesWritable, Text, Text> {
     private final List<String> processedBenchmarkFiles = new ArrayList<>();
+    private final AnalysisUtil analysisUtil = new AnalysisUtil();
 
     @Override
     public void map(Text key, BytesWritable value, Context context) throws IOException, InterruptedException {
-        Project project = AnalysisUtil.getProject(value);
+        Project project = analysisUtil.getProject(value);
         for (CodeRepository repository : project.getRepositories()) {
-            Set<ASTRoot> benchmarkFiles = AnalysisUtil.latestFileSnapshots(repository);
+            Set<ASTRoot> benchmarkFiles = analysisUtil.latestFileSnapshots(repository);
 
             for (ASTRoot changedFile : benchmarkFiles) {
                 String declarationName = changedFile.getNamespaces().get(0).getDeclarations().get(0).getName();
@@ -34,9 +35,12 @@ public final class BenchmarkConfigurationMapper extends Mapper<Text, BytesWritab
 
                 BenchmarkConfigurationVisitor visitor = new BenchmarkConfigurationVisitor();
                 changedFile.accept(visitor);
-                writeClassConfigurations(context, declarationName, visitor);
-
-                writeBenchmarkConfigurations(context, declarationName, visitor);
+                try {
+                    writeClassConfigurations(context, declarationName, visitor);
+                    writeBenchmarkConfigurations(context, declarationName, visitor);
+                } catch (Exception e) {
+                    System.out.println(e.toString());
+                }
             }
         }
     }

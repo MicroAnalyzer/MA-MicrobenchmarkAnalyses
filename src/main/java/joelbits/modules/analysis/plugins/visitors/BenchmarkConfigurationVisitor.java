@@ -1,7 +1,8 @@
-package joelbits.modules.analysis.visitors;
+package joelbits.modules.analysis.plugins.visitors;
 
 import joelbits.model.ast.*;
 import joelbits.model.ast.types.ModifierType;
+import joelbits.modules.analysis.visitors.Visitor;
 
 import java.util.*;
 
