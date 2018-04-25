@@ -1,6 +1,7 @@
 package joelbits.modules.analysis.plugins.visitors;
 
 import joelbits.model.ast.*;
+import joelbits.model.ast.types.ExpressionType;
 import joelbits.model.ast.types.ModifierType;
 import joelbits.modules.analysis.visitors.Visitor;
 
@@ -9,7 +10,7 @@ import java.util.*;
 public final class DeadCodeEliminationVisitor implements Visitor {
     private int allowDCE;
     private int nrBenchmarks;
-    private final Set<String> variableOccurrences = new HashSet<>();
+    private final Set<String> expressions = new HashSet<>();
     private final Set<String> variableDeclarations = new HashSet<>();
 
     @Override
@@ -58,7 +59,7 @@ public final class DeadCodeEliminationVisitor implements Visitor {
 
         allowsDCE();
         variableDeclarations.clear();
-        variableOccurrences.clear();
+        expressions.clear();
     }
 
     private void checkExpressions(List<Expression> expressions) {
@@ -77,19 +78,20 @@ public final class DeadCodeEliminationVisitor implements Visitor {
         for(Variable variable : expression.getVariableDeclarations()) {
             checkVariable(variable);
         }
-        if (expression.getType().equals(joelbits.model.ast.types.ExpressionType.VARIABLE_DECLARATION)) {
+        if (expression.getType().equals(ExpressionType.VARIABLE_DECLARATION)) {
             variableDeclarations.add(expression.getVariable());
         }
         else {
-            variableOccurrences.add(expression.getVariable());
+            expressions.add(expression.getVariable());
         }
-        variableOccurrences.add(expression.getLiteral());
-        variableOccurrences.add(expression.getMethod());
-        variableOccurrences.add(expression.getNewType().getName());
+        expressions.add(expression.getLiteral());
+        expressions.add(expression.getMethod());
+        expressions.add(expression.getNewType().getName());
     }
 
     private void checkVariable(Variable variable) {
         checkExpression(variable.getInitializer());
+        expressions.add(variable.getName());
     }
 
     private void checkStatements(List<Statement> statements) {
@@ -120,9 +122,9 @@ public final class DeadCodeEliminationVisitor implements Visitor {
     private void allowsDCE() {
         List<String> variables = new ArrayList<>(variableDeclarations);
 
-        for (String occurrence : variableOccurrences) {
+        for (String expression : expressions) {
             for (String declaration : variableDeclarations) {
-                if (occurrence.contains(declaration)) {
+                if (expression.contains(declaration)) {
                     variables.remove(declaration);
                 }
             }

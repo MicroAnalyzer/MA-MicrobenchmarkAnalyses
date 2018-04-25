@@ -4,8 +4,7 @@ import com.google.auto.service.AutoService;
 import joelbits.modules.analysis.plugins.mappers.*;
 import joelbits.modules.analysis.plugins.reducers.BenchmarkMeasurementReducer;
 import joelbits.modules.analysis.plugins.reducers.BenchmarkReducer;
-import joelbits.modules.analysis.plugins.reducers.ConstantFoldingReducer;
-import joelbits.modules.analysis.plugins.reducers.DeadCodeEliminationReducer;
+import joelbits.modules.analysis.plugins.reducers.BenchmarkOptimizationReducer;
 import joelbits.modules.analysis.plugins.spi.Analysis;
 import org.apache.hadoop.mapreduce.Mapper;
 import org.apache.hadoop.mapreduce.Reducer;
@@ -36,9 +35,8 @@ public class AnalysisPlugin implements Analysis {
     public Class<? extends Reducer> reducer(String reducer) {
         switch (reducer) {
             case "dce":
-                return DeadCodeEliminationReducer.class;
             case "cf":
-                return ConstantFoldingReducer.class;
+                return BenchmarkOptimizationReducer.class;
             case "configurations":
             case "count":
             case "evolution":

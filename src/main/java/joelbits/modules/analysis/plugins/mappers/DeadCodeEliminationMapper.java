@@ -10,8 +10,6 @@ import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;
 
 import java.io.IOException;
-import java.time.Duration;
-import java.time.Instant;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
@@ -22,12 +20,9 @@ public final class DeadCodeEliminationMapper extends Mapper<Text, BytesWritable,
 
     @Override
     public void map(Text key, BytesWritable value, Context context) throws IOException, InterruptedException {
-        if (key.toString().contains("automenta")) {
-            return;
-        }
         int nrOfBenchmarks = 0;
         int allowsDCE = 0;
-        Instant start = Instant.now();
+
         Project project = analysisUtil.getProject(value);
         DeadCodeEliminationVisitor visitor = new DeadCodeEliminationVisitor();
         for (CodeRepository repository : project.getRepositories()) {
@@ -55,8 +50,6 @@ public final class DeadCodeEliminationMapper extends Mapper<Text, BytesWritable,
                 allowsDCE += visitor.getAllowDCE();
             }
         }
-        Instant stop = Instant.now();
-        System.out.println(Duration.between(start, stop));
         context.write(new Text(Integer.toString(nrOfBenchmarks)), new Text(Integer.toString(allowsDCE)));
     }
 }
