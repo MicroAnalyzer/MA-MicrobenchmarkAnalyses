@@ -1,6 +1,6 @@
-# MA-JavaMicrobenchmarkAnalyses
+# MA-MicrobenchmarkAnalyses
 
-A [MicroAnalyzer](https://github.com/joelBIT/MicroAnalyzer) plug-in to perform some analyses on Java microbenchmark configurations and compiler optimizations.
+A [MicroAnalyzer](https://github.com/joelBIT/MicroAnalyzer) plug-in to perform some analyses on microbenchmarks.
 
 ## How To Compile Sources
 
