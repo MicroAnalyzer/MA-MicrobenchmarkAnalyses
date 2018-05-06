@@ -11,6 +11,7 @@ import org.apache.hadoop.mapreduce.Mapper;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Set;
 
@@ -21,7 +22,7 @@ public final class BenchmarkCountMapper extends Mapper<Text, BytesWritable, Text
     @Override
     public void map(Text key, BytesWritable value, Context context) throws IOException, InterruptedException {
         int nrOfBenchmarks = 0;
-        Project project = analysisUtil.getProject(value);
+        Project project = analysisUtil.getProject(Arrays.copyOf(value.getBytes(), value.getLength()));
         BenchmarkCountVisitor visitor = new BenchmarkCountVisitor();
         for (CodeRepository repository : project.getRepositories()) {
             Set<ASTRoot> benchmarkFiles = analysisUtil.latestFileSnapshots(repository);

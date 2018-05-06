@@ -11,6 +11,7 @@ import org.apache.hadoop.mapreduce.Mapper;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.Set;
 
@@ -23,7 +24,7 @@ public final class DeadCodeEliminationMapper extends Mapper<Text, BytesWritable,
         int nrOfBenchmarks = 0;
         int allowsDCE = 0;
 
-        Project project = analysisUtil.getProject(value);
+        Project project = analysisUtil.getProject(Arrays.copyOf(value.getBytes(), value.getLength()));
         DeadCodeEliminationVisitor visitor = new DeadCodeEliminationVisitor();
         for (CodeRepository repository : project.getRepositories()) {
             Set<ASTRoot> benchmarkFiles = analysisUtil.latestFileSnapshots(repository);

@@ -1,6 +1,7 @@
 package joelbits.modules.analysis.plugins.utils;
 
 import com.google.protobuf.InvalidProtocolBufferException;
+import joelbits.model.utils.PathUtil;
 import joelbits.modules.analysis.converters.ASTConverter;
 import joelbits.modules.analysis.converters.ProjectConverter;
 import joelbits.model.ast.ASTRoot;
@@ -20,24 +21,23 @@ import java.util.*;
 public final class AnalysisUtil {
     private static final Logger log = LoggerFactory.getLogger(AnalysisUtil.class);
 
-    public ASTRoot getAST(byte[] benchmarkFile) throws InvalidProtocolBufferException {
-        return new ASTConverter().convert(benchmarkFile);
+    public ASTRoot getAST(byte[] changedFile) throws InvalidProtocolBufferException {
+        return new ASTConverter().convert(changedFile);
     }
 
-    public Project getProject(BytesWritable value) throws InvalidProtocolBufferException {
-        byte[] project = Arrays.copyOf(value.getBytes(), value.getLength());
+    public Project getProject(byte[] project) throws InvalidProtocolBufferException {
         return new ProjectConverter().convert(project);
     }
 
     /**
-     * Retrieve all changed files in a revision that contains benchmarks.
+     * Retrieve all changed files in a revision.
      *
      * @param revision          the revision of interest
      * @param repositoryUrl     repository url of the project containing the revision
-     * @return                  list of changed benchmark files in the revision
+     * @return                  list of changed files in the revision
      */
-    public List<ASTRoot> allChangedBenchmarkFiles(Revision revision, String repositoryUrl) {
-        List<ASTRoot> changedBenchmarkFiles = new ArrayList<>();
+    public List<ASTRoot> allChangedFiles(Revision revision, String repositoryUrl) {
+        List<ASTRoot> changedFilesAST = new ArrayList<>();
         Set<String> mapFileKeys = new HashSet<>();
         ASTConverter astConverter = new ASTConverter();
 
@@ -45,16 +45,16 @@ public final class AnalysisUtil {
             mapFileKeys.add(repositoryUrl + ":" + revision.getId() + ":" + file.getName());
         }
 
-        Set<byte[]> benchmarkFiles = readMapFile(mapFileKeys);
-        for (byte[] file : benchmarkFiles) {
+        Set<byte[]> changedFiles = readMapFile(mapFileKeys);
+        for (byte[] file : changedFiles) {
             try {
-                changedBenchmarkFiles.add(astConverter.convert(file));
+                changedFilesAST.add(astConverter.convert(file));
             } catch (Exception e) {
                 log.error(e.toString(), e);
             }
         }
 
-        return changedBenchmarkFiles;
+        return changedFilesAST;
     }
 
     /**
@@ -65,21 +65,21 @@ public final class AnalysisUtil {
      */
     public Set<ASTRoot> latestFileSnapshots(CodeRepository repository) {
         Set<ASTRoot> latestVersionsChangedFiles = new HashSet<>();
-        Set<String> uniqueBenchmarkFiles = new HashSet<>();
+        Set<String> uniqueChangedFiles = new HashSet<>();
         Set<String> mapFileKeys = new HashSet<>();
         ASTConverter astConverter = new ASTConverter();
 
         for (Revision revision : repository.getRevisions()) {
             for (ChangedFile file : revision.getFiles()) {
-                if (!uniqueBenchmarkFiles.contains(file.getName())) {
-                    uniqueBenchmarkFiles.add(file.getName());
+                if (!uniqueChangedFiles.contains(file.getName())) {
+                    uniqueChangedFiles.add(file.getName());
                     mapFileKeys.add(repository.getUrl() + ":" + revision.getId() + ":" + file.getName());
                 }
             }
         }
 
-        Set<byte[]> benchmarkFiles = readMapFile(mapFileKeys);
-        for (byte[] file : benchmarkFiles) {
+        Set<byte[]> changedFiles = readMapFile(mapFileKeys);
+        for (byte[] file : changedFiles) {
             try {
                 latestVersionsChangedFiles.add(astConverter.convert(file));
             } catch (Exception e) {
@@ -91,20 +91,20 @@ public final class AnalysisUtil {
     }
 
     private Set<byte[]> readMapFile(Set<String> mapFileKeys) {
-        Set<byte[]> benchmarkFiles = new HashSet<>();
+        Set<byte[]> changedFiles = new HashSet<>();
 
         Configuration conf = new Configuration();
-        Path path = new Path(PathUtil.benchmarksMapFile());
+        Path path = new Path(PathUtil.changedFilesMapFile());
         try (MapFile.Reader mapReader = new MapFile.Reader(path, conf)) {
             for (String fileKey : mapFileKeys) {
                 BytesWritable value = (BytesWritable) ReflectionUtils.newInstance(mapReader.getValueClass(), conf);
                 mapReader.get(new Text(fileKey), value);
-                benchmarkFiles.add(Arrays.copyOf(value.getBytes(), value.getLength()));
+                changedFiles.add(Arrays.copyOf(value.getBytes(), value.getLength()));
             }
         } catch (Exception e) {
             log.error(e.toString(), e);
         }
 
-        return benchmarkFiles;
+        return changedFiles;
     }
 }

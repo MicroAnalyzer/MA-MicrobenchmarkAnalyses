@@ -11,6 +11,7 @@ import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;
 
 import java.io.IOException;
+import java.util.Arrays;
 import java.util.List;
 
 public final class BenchmarkEvolutionMapper extends Mapper<Text, BytesWritable, Text, Text> {
@@ -18,10 +19,10 @@ public final class BenchmarkEvolutionMapper extends Mapper<Text, BytesWritable, 
 
     @Override
     public void map(Text key, BytesWritable value, Context context) throws IOException, InterruptedException {
-        Project project = analysisUtil.getProject(value);
+        Project project = analysisUtil.getProject(Arrays.copyOf(value.getBytes(), value.getLength()));
         for (CodeRepository repository : project.getRepositories()) {
             for (Revision revision : repository.getRevisions()) {
-                List<ASTRoot> benchmarkFiles = analysisUtil.allChangedBenchmarkFiles(revision, repository.getUrl());
+                List<ASTRoot> benchmarkFiles = analysisUtil.allChangedFiles(revision, repository.getUrl());
                 for (ASTRoot changedFile : benchmarkFiles) {
                     String declarationName = changedFile.getNamespaces().get(0).getDeclarations().get(0).getName();
                     BenchmarkEvolutionVisitor visitor = new BenchmarkEvolutionVisitor();
