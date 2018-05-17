@@ -7,7 +7,7 @@ import joelbits.modules.analysis.visitors.Visitor;
 import java.util.ArrayList;
 import java.util.List;
 
-public class BenchmarkEvolutionVisitor implements Visitor {
+public final class BenchmarkEvolutionVisitor implements Visitor {
     private final List<String> benchmarkChanges = new ArrayList<>();
 
     @Override
