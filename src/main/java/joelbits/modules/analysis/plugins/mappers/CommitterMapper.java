@@ -29,8 +29,7 @@ public final class CommitterMapper extends Mapper<Text, BytesWritable, Text, Tex
             for (Revision revision : revisions) {
                 String committer = revision.getCommitter().getUsername();
                 context.write(new Text("committer"), new Text(committer));
-                String logMessage = revision.getLog().toLowerCase();
-                if (!revision.getFiles().isEmpty() && logMessage.contains("benchmark")) {
+                if (!revision.getFiles().isEmpty()) {
                     context.write(new Text("benchmarker"), new Text(committer));
                 }
             }
