@@ -51,6 +51,7 @@ public final class DeadCodeEliminationMapper extends Mapper<Text, BytesWritable,
                 allowsDCE += visitor.getAllowDCE();
             }
         }
+        context.write(new Text("DCE"), new Text(project.getName() + ":" + allowsDCE + "/" + nrOfBenchmarks));
         context.write(new Text(Integer.toString(nrOfBenchmarks)), new Text(Integer.toString(allowsDCE)));
     }
 }

@@ -51,6 +51,7 @@ public final class ConstantFoldingMapper extends Mapper<Text, BytesWritable, Tex
                 allowsCF += visitor.getAllowCF();
             }
         }
+        context.write(new Text("CF"), new Text(project.getName() + ":" + allowsCF + "/" + nrOfBenchmarks));
         context.write(new Text(Integer.toString(nrOfBenchmarks)), new Text(Integer.toString(allowsCF)));
     }
 }

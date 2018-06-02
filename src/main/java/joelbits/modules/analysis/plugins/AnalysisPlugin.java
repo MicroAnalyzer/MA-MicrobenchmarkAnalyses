@@ -20,8 +20,10 @@ public class AnalysisPlugin implements Analysis {
                 return BenchmarkConfigurationMapper.class;
             case "count":
                 return BenchmarkCountMapper.class;
-            case "evolution":
+            case "changes":
                 return BenchmarkEvolutionMapper.class;
+            case "evolution":
+                return EvolutionMapper.class;
             case "measurement":
                 return BenchmarkMeasurementMapper.class;
             case "benchmarkers":
@@ -41,8 +43,10 @@ public class AnalysisPlugin implements Analysis {
                 return BenchmarkOptimizationReducer.class;
             case "configurations":
             case "count":
-            case "evolution":
+            case "changes":
                 return BenchmarkReducer.class;
+            case "evolution":
+                return EvolutionReducer.class;
             case "words":
                 return RatioReducer.class;
             case "benchmarkers":
