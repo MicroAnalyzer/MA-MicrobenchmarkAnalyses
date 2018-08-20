@@ -1,0 +1,2270 @@
+committers: 	2139
+
+benchmarkers: 	320
+
+
+RxJava has 1 benchmarkers	 out of 126 committers
+
+Top 5 committers of 	 RxJava are 
+
+RxJava	Ben Christensen: 0/2047
+
+RxJava	David Karnok: 0/575
+
+RxJava	akarnokd: 0/510
+
+RxJava	GitHub: 2/365
+
+RxJava	zsxwing: 0/274
+
+Commits per developer affecting microbenchmark files in RxJava	 are 2
+
+
+JavaLinuxNet has 1 benchmarkers	 out of 4 committers
+
+Top 5 committers of 	 JavaLinuxNet are 
+
+JavaLinuxNet	luc: 2/229
+
+JavaLinuxNet	Luc Willems: 0/33
+
+JavaLinuxNet	luc.willems@it4y.eu: 0/2
+
+JavaLinuxNet	0x08: 0/1
+
+Commits per developer affecting microbenchmark files in JavaLinuxNet	 are 2
+
+
+glowroot has 1 benchmarkers	 out of 2 committers
+
+Top 5 committers of 	 glowroot are 
+
+glowroot	Trask Stalnaker: 2/3395
+
+glowroot	Matthew L Daniel: 0/1
+
+Commits per developer affecting microbenchmark files in glowroot	 are 2
+
+
+rxjava2-extras has 1 benchmarkers	 out of 4 committers
+
+Top 5 committers of 	 rxjava2-extras are 
+
+rxjava2-extras	Dave Moten: 3/599
+
+rxjava2-extras	GitHub: 0/7
+
+rxjava2-extras	Jan Bols: 0/2
+
+rxjava2-extras	Thomas Nield: 0/1
+
+Commits per developer affecting microbenchmark files in rxjava2-extras	 are 3
+
+
+SparkJNI has 3 benchmarkers	 out of 5 committers
+
+Top 5 committers of 	 SparkJNI are 
+
+SparkJNI	tvoicu91: 1/42
+
+SparkJNI	Tudor Voicu: 5/28
+
+SparkJNI	GitHub: 0/19
+
+SparkJNI	tudorv91: 1/3
+
+SparkJNI	tudor: 0/1
+
+Commits per developer affecting microbenchmark files in SparkJNI	 are 1,5,1
+
+
+java_in_examples has 2 benchmarkers	 out of 4 committers
+
+Top 5 committers of 	 java_in_examples are 
+
+java_in_examples	vvedenin: 7/38
+
+java_in_examples	vedenin: 3/32
+
+java_in_examples	Viacheslav Vedenin: 0/27
+
+java_in_examples	Vedenin: 0/1
+
+Commits per developer affecting microbenchmark files in java_in_examples	 are 7,3
+
+
+graylog-plugin-pipeline-processor has 5 benchmarkers	 out of 9 committers
+
+Top 5 committers of 	 graylog-plugin-pipeline-processor are 
+
+graylog-plugin-pipeline-processor	Kay Roepke: 8/191
+
+graylog-plugin-pipeline-processor	Edmundo Alvarez: 2/103
+
+graylog-plugin-pipeline-processor	Bernd Ahlers: 5/103
+
+graylog-plugin-pipeline-processor	Gary Bot: 1/63
+
+graylog-plugin-pipeline-processor	Jochen Schalanda: 0/45
+
+Commits per developer affecting microbenchmark files in graylog-plugin-pipeline-processor	 are 1,2,1,5,8
+
+
+java has 2 benchmarkers	 out of 10 committers
+
+Top 5 committers of 	 java are 
+
+java	Tao Wen: 4/401
+
+java	GitHub: 0/16
+
+java	caoli5288: 0/8
+
+java	Andriy Plokhotnyuk: 0/5
+
+java	ashu01: 0/5
+
+Commits per developer affecting microbenchmark files in java	 are 1,4
+
+
+Trident has 3 benchmarkers	 out of 29 committers
+
+Top 5 committers of 	 Trident are 
+
+Trident	AgentTroll: 7/541
+
+Trident	Mazen K: 0/130
+
+Trident	Vilsol: 0/107
+
+Trident	MazenMC: 0/64
+
+Trident	Nick Robson: 4/55
+
+Commits per developer affecting microbenchmark files in Trident	 are 7,3,4
+
+
+simple-binary-encoding has 4 benchmarkers	 out of 43 committers
+
+Top 5 committers of 	 simple-binary-encoding are 
+
+simple-binary-encoding	Martin Thompson: 4/796
+
+simple-binary-encoding	Todd L. Montgomery: 1/558
+
+simple-binary-encoding	mjpt777: 9/214
+
+simple-binary-encoding	GitHub: 0/77
+
+simple-binary-encoding	Richard Warburton: 0/60
+
+Commits per developer affecting microbenchmark files in simple-binary-encoding	 are 1,2,4,9
+
+
+entity-system-benchmarks has 2 benchmarkers	 out of 3 committers
+
+Top 5 committers of 	 entity-system-benchmarks are 
+
+entity-system-benchmarks	Adrian Papari: 20/128
+
+entity-system-benchmarks	Anton Gustafsson: 1/4
+
+entity-system-benchmarks	Piotr J: 0/3
+
+Commits per developer affecting microbenchmark files in entity-system-benchmarks	 are 20,1
+
+
+gumtree has 1 benchmarkers	 out of 13 committers
+
+Top 5 committers of 	 gumtree are 
+
+gumtree	Jean-Rémy Falleri: 4/324
+
+gumtree	Floreal Morandat florealm@gmail.com: 0/93
+
+gumtree	GitHub: 0/16
+
+gumtree	Mihai Codoban: 0/7
+
+gumtree	Georg.Dotzler: 0/6
+
+Commits per developer affecting microbenchmark files in gumtree	 are 4
+
+
+zipkin has 4 benchmarkers	 out of 17 committers
+
+Top 5 committers of 	 zipkin are 
+
+zipkin	Adrian Cole: 21/871
+
+zipkin	GitHub: 16/272
+
+zipkin	adriancole: 0/118
+
+zipkin	zipkinci: 0/111
+
+zipkin	Zoltan Nagy: 3/24
+
+Commits per developer affecting microbenchmark files in zipkin	 are 3,21,16,1
+
+
+test-data-generator has 3 benchmarkers	 out of 3 committers
+
+Top 5 committers of 	 test-data-generator are 
+
+test-data-generator	presidentio: 2/22
+
+test-data-generator	Vitaliy Gergel: 1/15
+
+test-data-generator	Vitaliy: 1/11
+
+Commits per developer affecting microbenchmark files in test-data-generator	 are 1,2,1
+
+
+ixjava has 2 benchmarkers	 out of 4 committers
+
+Top 5 committers of 	 ixjava are 
+
+ixjava	akarnokd: 1/56
+
+ixjava	Dávid Karnok: 2/26
+
+ixjava	David Karnok: 0/5
+
+ixjava	GitHub: 0/3
+
+Commits per developer affecting microbenchmark files in ixjava	 are 1,2
+
+
+jvm-unsafe-utils has 1 benchmarkers	 out of 1 committers
+
+Top 5 committers of 	 jvm-unsafe-utils are 
+
+jvm-unsafe-utils	Reynold Xin: 1/20
+
+Commits per developer affecting microbenchmark files in jvm-unsafe-utils	 are 1
+
+
+spring-boot-starter-netty has 1 benchmarkers	 out of 1 committers
+
+Top 5 committers of 	 spring-boot-starter-netty are 
+
+spring-boot-starter-netty	Danny Thomas: 1/6
+
+Commits per developer affecting microbenchmark files in spring-boot-starter-netty	 are 1
+
+
+apollo has 2 benchmarkers	 out of 33 committers
+
+Top 5 committers of 	 apollo are 
+
+apollo	Petter Måhlén: 1/146
+
+apollo	Rouzbeh Delavari: 0/94
+
+apollo	Mattias de Zalenski: 0/78
+
+apollo	GitHub: 0/53
+
+apollo	Jonathan Pettersson: 0/20
+
+Commits per developer affecting microbenchmark files in apollo	 are 1,1
+
+
+SquidLib has 3 benchmarkers	 out of 10 committers
+
+Top 5 committers of 	 SquidLib are 
+
+SquidLib	Tommy Ettinger: 113/1236
+
+SquidLib	Eben Howard: 0/143
+
+SquidLib	smelc: 17/66
+
+SquidLib	GitHub: 3/28
+
+SquidLib	David Becker: 0/23
+
+Commits per developer affecting microbenchmark files in SquidLib	 are 113,17,3
+
+
+reveno has 1 benchmarkers	 out of 3 committers
+
+Top 5 committers of 	 reveno are 
+
+reveno	Artem Dmitriev: 1/399
+
+reveno	GitHub: 0/4
+
+reveno	Yurii Rashkovskii: 0/1
+
+Commits per developer affecting microbenchmark files in reveno	 are 1
+
+
+spring-cloud-sleuth has 4 benchmarkers	 out of 14 committers
+
+Top 5 committers of 	 spring-cloud-sleuth are 
+
+spring-cloud-sleuth	Marcin Grzejszczak: 118/1168
+
+spring-cloud-sleuth	Dave Syer: 2/198
+
+spring-cloud-sleuth	Spencer Gibb: 0/113
+
+spring-cloud-sleuth	Adrian Cole: 2/113
+
+spring-cloud-sleuth	GitHub: 9/91
+
+Commits per developer affecting microbenchmark files in spring-cloud-sleuth	 are 118,2,2,9
+
+
+conscrypt has 1 benchmarkers	 out of 68 committers
+
+Top 5 committers of 	 conscrypt are 
+
+conscrypt	Android Git Automerger: 0/1254
+
+conscrypt	Kenny Root: 0/700
+
+conscrypt	android-build-merger: 0/654
+
+conscrypt	GitHub: 9/239
+
+conscrypt	Gerrit Code Review: 0/157
+
+Commits per developer affecting microbenchmark files in conscrypt	 are 9
+
+
+decimal4j has 1 benchmarkers	 out of 5 committers
+
+Top 5 committers of 	 decimal4j are 
+
+decimal4j	Marco Terzer: 22/321
+
+decimal4j	majerv: 0/20
+
+decimal4j	terz: 0/19
+
+decimal4j	GitHub: 0/6
+
+decimal4j	terzerm: 0/5
+
+Commits per developer affecting microbenchmark files in decimal4j	 are 22
+
+
+fixio has 1 benchmarkers	 out of 7 committers
+
+Top 5 committers of 	 fixio are 
+
+fixio	kpavlov: 2/148
+
+fixio	Konstantin Pavlov: 0/70
+
+fixio	harvey: 0/17
+
+fixio	GitHub: 0/8
+
+fixio	Guido Medina: 0/5
+
+Commits per developer affecting microbenchmark files in fixio	 are 2
+
+
+okio has 2 benchmarkers	 out of 31 committers
+
+Top 5 committers of 	 okio are 
+
+okio	Jesse Wilson: 3/181
+
+okio	Jake Wharton: 0/116
+
+okio	jwilson: 2/116
+
+okio	GitHub: 0/44
+
+okio	Adrian Cole: 0/26
+
+Commits per developer affecting microbenchmark files in okio	 are 3,2
+
+
+debop4k has 2 benchmarkers	 out of 4 committers
+
+Top 5 committers of 	 debop4k are 
+
+debop4k	Sunghyouk Bae: 1/197
+
+debop4k	debop: 3/153
+
+debop4k	debop (배성혁): 0/8
+
+debop4k	debop ( 배성혁 ): 0/1
+
+Commits per developer affecting microbenchmark files in debop4k	 are 3,1
+
+
+directory-kerby has 6 benchmarkers	 out of 20 committers
+
+Top 5 committers of 	 directory-kerby are 
+
+directory-kerby	Drankye: 3/467
+
+directory-kerby	plusplusjiajia: 4/357
+
+directory-kerby	Colm O hEigeartaigh: 1/251
+
+directory-kerby	Kai Zheng: 1/124
+
+directory-kerby	Emmanuel Lécharny: 2/62
+
+Commits per developer affecting microbenchmark files in directory-kerby	 are 2,3,1,1,4,1
+
+
+xstream has 1 benchmarkers	 out of 15 committers
+
+Top 5 committers of 	 xstream are 
+
+xstream	Jörg Schaible: 0/1427
+
+xstream	Joe Walnes: 0/501
+
+xstream	joehni: 28/372
+
+xstream	Mauro Talevi: 0/125
+
+xstream	Guilherme Silveira: 0/69
+
+Commits per developer affecting microbenchmark files in xstream	 are 28
+
+
+requery has 1 benchmarkers	 out of 4 committers
+
+Top 5 committers of 	 requery are 
+
+requery	Nikhil Purushe: 2/778
+
+requery	Greg Ennis: 0/2
+
+requery	Max K: 0/1
+
+requery	Christian: 0/1
+
+Commits per developer affecting microbenchmark files in requery	 are 2
+
+
+java-perv has 1 benchmarkers	 out of 1 committers
+
+Top 5 committers of 	 java-perv are 
+
+java-perv	Gleb Smirnov: 11/90
+
+Commits per developer affecting microbenchmark files in java-perv	 are 11
+
+
+jmh-samples has 1 benchmarkers	 out of 1 committers
+
+Top 5 committers of 	 jmh-samples are 
+
+jmh-samples	nitsanw: 9/19
+
+Commits per developer affecting microbenchmark files in jmh-samples	 are 9
+
+
+flexmark-java has 1 benchmarkers	 out of 10 committers
+
+Top 5 committers of 	 flexmark-java are 
+
+flexmark-java	Vladimir Schneider: 5/524
+
+flexmark-java	Robin Stocker: 0/290
+
+flexmark-java	Chiwan Park: 0/12
+
+flexmark-java	JinneeJ: 0/7
+
+flexmark-java	Arian Treffer: 0/2
+
+Commits per developer affecting microbenchmark files in flexmark-java	 are 5
+
+
+logstash-gelf has 1 benchmarkers	 out of 13 committers
+
+Top 5 committers of 	 logstash-gelf are 
+
+logstash-gelf	Mark Paluch: 2/365
+
+logstash-gelf	Batigoal: 0/8
+
+logstash-gelf	Martin Strigl: 0/3
+
+logstash-gelf	Remmelt Pit: 0/2
+
+logstash-gelf	Kai Geisselhardt: 0/2
+
+Commits per developer affecting microbenchmark files in logstash-gelf	 are 2
+
+
+logback-ext has 1 benchmarkers	 out of 4 committers
+
+Top 5 committers of 	 logback-ext are 
+
+logback-ext	trautonen: 2/62
+
+logback-ext	Tim Reidel: 0/4
+
+logback-ext	Tianji Li: 0/1
+
+logback-ext	Tapio Rautonen: 0/1
+
+Commits per developer affecting microbenchmark files in logback-ext	 are 2
+
+
+yangtools has 6 benchmarkers	 out of 59 committers
+
+Top 5 committers of 	 yangtools are 
+
+yangtools	Robert Varga: 4/1692
+
+yangtools	Gerrit Code Review: 5/1155
+
+yangtools	Tony Tkacik: 3/420
+
+yangtools	Martin Vitez: 0/316
+
+yangtools	Maros Marsalek: 1/41
+
+Commits per developer affecting microbenchmark files in yangtools	 are 3,1,4,1,5,3
+
+
+SimpleFlatMapper has 2 benchmarkers	 out of 8 committers
+
+Top 5 committers of 	 SimpleFlatMapper are 
+
+SimpleFlatMapper	Arnaud Roger: 18/2480
+
+SimpleFlatMapper	GitHub: 2/19
+
+SimpleFlatMapper	aroger: 0/13
+
+SimpleFlatMapper	arnaud.roger@gmail.com: 0/4
+
+SimpleFlatMapper	Scott Albertine: 0/2
+
+Commits per developer affecting microbenchmark files in SimpleFlatMapper	 are 18,2
+
+
+unsafe has 1 benchmarkers	 out of 2 committers
+
+Top 5 committers of 	 unsafe are 
+
+unsafe	Andrew Brampton: 10/51
+
+unsafe	GitHub: 0/2
+
+Commits per developer affecting microbenchmark files in unsafe	 are 10
+
+
+RoaringBitmap has 14 benchmarkers	 out of 33 committers
+
+Top 5 committers of 	 RoaringBitmap are 
+
+RoaringBitmap	Daniel Lemire: 73/1199
+
+RoaringBitmap	gssiyankai: 29/140
+
+RoaringBitmap	CHAMBI Samy: 1/98
+
+RoaringBitmap	Owen Kaser: 10/55
+
+RoaringBitmap	GitHub: 2/43
+
+Commits per developer affecting microbenchmark files in RoaringBitmap	 are 6,1,2,2,1,6,29,2,73,1,1,2,4,10
+
+
+Microservices has 1 benchmarkers	 out of 4 committers
+
+Top 5 committers of 	 Microservices are 
+
+Microservices	Peter Lawrey: 3/45
+
+Microservices	danielshaya: 0/2
+
+Microservices	GitHub: 0/1
+
+Microservices	Daniel Shaya: 0/1
+
+Commits per developer affecting microbenchmark files in Microservices	 are 3
+
+
+bucket4j has 1 benchmarkers	 out of 10 committers
+
+Top 5 committers of 	 bucket4j are 
+
+bucket4j	vladimir.bukhtoyarov: 8/281
+
+bucket4j	Brandon Beck: 0/27
+
+bucket4j	GitHub: 0/17
+
+bucket4j	Vladimir Bukhtoyarov: 0/2
+
+bucket4j	Cesar TL: 0/2
+
+Commits per developer affecting microbenchmark files in bucket4j	 are 8
+
+
+geo has 1 benchmarkers	 out of 7 committers
+
+Top 5 committers of 	 geo are 
+
+geo	Dave Moten: 1/336
+
+geo	Nicolás Lichtmaier: 0/13
+
+geo	Andrew Brampton: 0/2
+
+geo	GitHub: 0/2
+
+geo	Santiago Castro: 0/1
+
+Commits per developer affecting microbenchmark files in geo	 are 1
+
+
+PRNG-Performance has 1 benchmarkers	 out of 1 committers
+
+Top 5 committers of 	 PRNG-Performance are 
+
+PRNG-Performance	Tobias Ibounig: 1/4
+
+Commits per developer affecting microbenchmark files in PRNG-Performance	 are 1
+
+
+graph_processing has 1 benchmarkers	 out of 3 committers
+
+Top 5 committers of 	 graph_processing are 
+
+graph_processing	Michael Hunger: 0/12
+
+graph_processing	Max De Marzi: 5/12
+
+graph_processing	GitHub: 0/3
+
+Commits per developer affecting microbenchmark files in graph_processing	 are 5
+
+
+jvm-serializer has 1 benchmarkers	 out of 5 committers
+
+Top 5 committers of 	 jvm-serializer are 
+
+jvm-serializer	xinyuzhou.zxy: 1/8
+
+jvm-serializer	Gosling: 0/8
+
+jvm-serializer	von gosling: 0/5
+
+jvm-serializer	GitHub: 0/4
+
+jvm-serializer	vongosling: 0/1
+
+Commits per developer affecting microbenchmark files in jvm-serializer	 are 1
+
+
+gorilla-tsc has 1 benchmarkers	 out of 1 committers
+
+Top 5 committers of 	 gorilla-tsc are 
+
+gorilla-tsc	Michael Burman: 6/65
+
+Commits per developer affecting microbenchmark files in gorilla-tsc	 are 6
+
+
+jvptree has 1 benchmarkers	 out of 2 committers
+
+Top 5 committers of 	 jvptree are 
+
+jvptree	Jon Chambers: 3/70
+
+jvptree	GitHub: 0/3
+
+Commits per developer affecting microbenchmark files in jvptree	 are 3
+
+
+grpc-java has 8 benchmarkers	 out of 46 committers
+
+Top 5 committers of 	 grpc-java are 
+
+grpc-java	Eric Anderson: 10/894
+
+grpc-java	GitHub: 10/684
+
+grpc-java	Carl Mastrangelo: 5/284
+
+grpc-java	Kun Zhang: 6/182
+
+grpc-java	nmittler: 4/133
+
+Commits per developer affecting microbenchmark files in grpc-java	 are 4,4,6,10,10,1,5,1
+
+
+uploader has 1 benchmarkers	 out of 2 committers
+
+Top 5 committers of 	 uploader are 
+
+uploader	Justin Plock: 4/76
+
+uploader	GitHub: 0/5
+
+Commits per developer affecting microbenchmark files in uploader	 are 4
+
+
+jbrotli has 1 benchmarkers	 out of 3 committers
+
+Top 5 committers of 	 jbrotli are 
+
+jbrotli	nitram509: 4/184
+
+jbrotli	Martin W. Kirst: 0/3
+
+jbrotli	Ryan Blue: 0/2
+
+Commits per developer affecting microbenchmark files in jbrotli	 are 4
+
+
+jenetics has 2 benchmarkers	 out of 8 committers
+
+Top 5 committers of 	 jenetics are 
+
+jenetics	Franz Wilhelmstötter: 21/7941
+
+jenetics	GitHub: 1/91
+
+jenetics	Ivan Osipov: 0/2
+
+jenetics	Zsolt Kocsi: 0/1
+
+jenetics	Travis Wellman: 0/1
+
+Commits per developer affecting microbenchmark files in jenetics	 are 1,21
+
+
+crl-stream has 1 benchmarkers	 out of 1 committers
+
+Top 5 committers of 	 crl-stream are 
+
+crl-stream	Alex Wood: 9/40
+
+Commits per developer affecting microbenchmark files in crl-stream	 are 9
+
+
+sparkey-java has 1 benchmarkers	 out of 9 committers
+
+Top 5 committers of 	 sparkey-java are 
+
+sparkey-java	Kristofer Karlsson: 3/92
+
+sparkey-java	noaresare: 0/3
+
+sparkey-java	Marc Bruggmann: 0/3
+
+sparkey-java	Romain Yon: 0/3
+
+sparkey-java	Noa Resare: 0/2
+
+Commits per developer affecting microbenchmark files in sparkey-java	 are 3
+
+
+javersion has 1 benchmarkers	 out of 1 committers
+
+Top 5 committers of 	 javersion are 
+
+javersion	Samppa Saarela: 4/632
+
+Commits per developer affecting microbenchmark files in javersion	 are 4
+
+
+akarnokd-misc has 3 benchmarkers	 out of 4 committers
+
+Top 5 committers of 	 akarnokd-misc are 
+
+akarnokd-misc	akarnokd: 89/142
+
+akarnokd-misc	Dávid Karnok: 38/68
+
+akarnokd-misc	David Karnok: 0/1
+
+akarnokd-misc	Stephane Maldini: 1/1
+
+Commits per developer affecting microbenchmark files in akarnokd-misc	 are 89,38,1
+
+
+cryptolib has 1 benchmarkers	 out of 3 committers
+
+Top 5 committers of 	 cryptolib are 
+
+cryptolib	Sebastian Stenzel: 4/158
+
+cryptolib	Markus Kreusch: 0/9
+
+cryptolib	GitHub: 0/4
+
+Commits per developer affecting microbenchmark files in cryptolib	 are 4
+
+
+hash-bench has 1 benchmarkers	 out of 2 committers
+
+Top 5 committers of 	 hash-bench are 
+
+hash-bench	Ben Alex: 8/34
+
+hash-bench	Roman Leventov: 0/1
+
+Commits per developer affecting microbenchmark files in hash-bench	 are 8
+
+
+pinot has 3 benchmarkers	 out of 48 committers
+
+Top 5 committers of 	 pinot are 
+
+pinot	GitHub: 11/1805
+
+pinot	Jean-Francois Im: 5/533
+
+pinot	Greg Brandt: 0/469
+
+pinot	Neha Pawar: 0/329
+
+pinot	Mayank Shrivastava: 0/216
+
+Commits per developer affecting microbenchmark files in pinot	 are 11,5,1
+
+
+controller has 13 benchmarkers	 out of 164 committers
+
+Top 5 committers of 	 controller are 
+
+controller	Gerrit Code Review: 7/3238
+
+controller	Robert Varga: 8/1017
+
+controller	Tom Pantelis: 2/834
+
+controller	Tony Tkacik: 0/432
+
+controller	Maros Marsalek: 1/255
+
+Commits per developer affecting microbenchmark files in controller	 are 1,1,1,1,8,1,1,3,1,1,2,7,2
+
+
+fast-rng-java has 1 benchmarkers	 out of 2 committers
+
+Top 5 committers of 	 fast-rng-java are 
+
+fast-rng-java	KOMIYA Atsushi: 7/50
+
+fast-rng-java	GitHub: 0/3
+
+Commits per developer affecting microbenchmark files in fast-rng-java	 are 7
+
+
+RHub has 1 benchmarkers	 out of 3 committers
+
+Top 5 committers of 	 RHub are 
+
+RHub	Kalin Maldzhanski: 4/111
+
+RHub	Kalin: 0/3
+
+RHub	GitHub: 0/2
+
+Commits per developer affecting microbenchmark files in RHub	 are 4
+
+
+xodus has 5 benchmarkers	 out of 25 committers
+
+Top 5 committers of 	 xodus are 
+
+xodus	Vyacheslav Lukianov: 21/1280
+
+xodus	Pavel Nikitin: 16/181
+
+xodus	Pavel.Nikitin: 0/28
+
+xodus	Vadim Gurov: 0/18
+
+xodus	morj: 2/15
+
+Commits per developer affecting microbenchmark files in xodus	 are 6,2,4,21,16
+
+
+gral has 2 benchmarkers	 out of 2 committers
+
+Top 5 committers of 	 gral are 
+
+gral	Erich Seifert: 2/602
+
+gral	Michael Seifert: 2/509
+
+Commits per developer affecting microbenchmark files in gral	 are 2,2
+
+
+scalecube has 4 benchmarkers	 out of 10 committers
+
+Top 5 committers of 	 scalecube are 
+
+scalecube	Anton Kharenko: 2/103
+
+scalecube	GitHub: 6/70
+
+scalecube	Ronen Hamias: 0/20
+
+scalecube	Myroslav Lisniak: 3/17
+
+scalecube	Ronen Nachmias: 0/17
+
+Commits per developer affecting microbenchmark files in scalecube	 are 1,6,3,2
+
+
+viktor has 1 benchmarkers	 out of 6 committers
+
+Top 5 committers of 	 viktor are 
+
+viktor	Sergei Lebedev: 3/156
+
+viktor	Roman Chernyatchik: 0/5
+
+viktor	dievsky: 0/4
+
+viktor	Evgeny Kurbatsky: 0/4
+
+viktor	Oleg Shpynov: 0/1
+
+Commits per developer affecting microbenchmark files in viktor	 are 3
+
+
+completable-futures has 2 benchmarkers	 out of 8 committers
+
+Top 5 committers of 	 completable-futures are 
+
+completable-futures	Marc Bruggmann: 5/66
+
+completable-futures	David Flemström: 2/51
+
+completable-futures	GitHub: 0/5
+
+completable-futures	Kristofer Karlsson: 0/4
+
+completable-futures	Matt Brown: 0/3
+
+Commits per developer affecting microbenchmark files in completable-futures	 are 2,5
+
+
+crate has 4 benchmarkers	 out of 51 committers
+
+Top 5 committers of 	 crate are 
+
+crate	Mathias Fussenegger: 9/2388
+
+crate	Matthias Wahl: 0/1105
+
+crate	Sebastian Utz: 3/999
+
+crate	Christian Haudum: 0/535
+
+crate	dobe: 0/477
+
+Commits per developer affecting microbenchmark files in crate	 are 3,2,4,9
+
+
+sqlg has 1 benchmarkers	 out of 19 committers
+
+Top 5 committers of 	 sqlg are 
+
+sqlg	pieter: 14/1317
+
+sqlg	jpmoresmau: 0/82
+
+sqlg	GitHub: 0/74
+
+sqlg	Pieter Martin: 0/28
+
+sqlg	Jean-Philippe Moresmau: 0/27
+
+Commits per developer affecting microbenchmark files in sqlg	 are 14
+
+
+rtree has 1 benchmarkers	 out of 6 committers
+
+Top 5 committers of 	 rtree are 
+
+rtree	Dave Moten: 60/1070
+
+rtree	unknown: 0/6
+
+rtree	David Moten: 0/4
+
+rtree	GitHub: 0/3
+
+rtree	maxamel: 0/2
+
+Commits per developer affecting microbenchmark files in rtree	 are 60
+
+
+hpack has 1 benchmarkers	 out of 4 committers
+
+Top 5 committers of 	 hpack are 
+
+hpack	Jeff Pinner: 1/44
+
+hpack	Chris Aniszczyk: 0/11
+
+hpack	Antoine Tollenaere: 0/3
+
+hpack	Carsten Varming: 0/1
+
+Commits per developer affecting microbenchmark files in hpack	 are 1
+
+
+jinjava has 2 benchmarkers	 out of 37 committers
+
+Top 5 committers of 	 jinjava are 
+
+jinjava	Jared Stehler: 16/308
+
+jinjava	GitHub: 0/139
+
+jinjava	Jeff Boulter: 0/91
+
+jinjava	HubSpot PaaS Team: 0/68
+
+jinjava	Meghan Nelson: 0/51
+
+Commits per developer affecting microbenchmark files in jinjava	 are 1,16
+
+
+saga-lib has 1 benchmarkers	 out of 6 committers
+
+Top 5 committers of 	 saga-lib are 
+
+saga-lib	Domo42: 5/129
+
+saga-lib	Domo: 0/48
+
+saga-lib	sdomnano: 0/3
+
+saga-lib	Camillo Dell'mour: 0/2
+
+saga-lib	lhodovsk: 0/1
+
+Commits per developer affecting microbenchmark files in saga-lib	 are 5
+
+
+narchy has 1 benchmarkers	 out of 1 committers
+
+Top 5 committers of 	 narchy are 
+
+narchy	SeH: 54/4572
+
+Commits per developer affecting microbenchmark files in narchy	 are 54
+
+
+quick-csv-streamer has 2 benchmarkers	 out of 8 committers
+
+Top 5 committers of 	 quick-csv-streamer are 
+
+quick-csv-streamer	Kostya@home: 6/15
+
+quick-csv-streamer	Kostya Titorenko: 1/9
+
+quick-csv-streamer	titorenko: 0/6
+
+quick-csv-streamer	titorenko@gmail.com: 0/2
+
+quick-csv-streamer	hgrey: 0/2
+
+Commits per developer affecting microbenchmark files in quick-csv-streamer	 are 1,6
+
+
+spectator has 4 benchmarkers	 out of 17 committers
+
+Top 5 committers of 	 spectator are 
+
+spectator	Brian Harrington: 12/369
+
+spectator	brharrington: 2/268
+
+spectator	GitHub: 7/143
+
+spectator	Peter D. Stout: 0/21
+
+spectator	OpsEng Jenkins Builds User: 0/14
+
+Commits per developer affecting microbenchmark files in spectator	 are 12,7,2,1
+
+
+pcg-java has 1 benchmarkers	 out of 1 committers
+
+Top 5 committers of 	 pcg-java are 
+
+pcg-java	Alexey Romanov: 2/20
+
+Commits per developer affecting microbenchmark files in pcg-java	 are 2
+
+
+beam has 1 benchmarkers	 out of 1 committers
+
+Top 5 committers of 	 beam are 
+
+beam	Alex Barreto: 11/344
+
+Commits per developer affecting microbenchmark files in beam	 are 11
+
+
+100-Java-Concurrency-questions has 1 benchmarkers	 out of 2 committers
+
+Top 5 committers of 	 100-Java-Concurrency-questions are 
+
+100-Java-Concurrency-questions	Artem Prigoda: 3/84
+
+100-Java-Concurrency-questions	GitHub: 0/9
+
+Commits per developer affecting microbenchmark files in 100-Java-Concurrency-questions	 are 3
+
+
+compactmap has 1 benchmarkers	 out of 1 committers
+
+Top 5 committers of 	 compactmap are 
+
+compactmap	Vladimir Sitnikov: 1/21
+
+Commits per developer affecting microbenchmark files in compactmap	 are 1
+
+
+jus has 2 benchmarkers	 out of 6 committers
+
+Top 5 committers of 	 jus are 
+
+jus	Kalin Maldzhanski: 1/381
+
+jus	Kalin: 0/9
+
+jus	GitHub: 1/6
+
+jus	Vincent: 0/3
+
+jus	Making GitHub Delicious: 0/1
+
+Commits per developer affecting microbenchmark files in jus	 are 1,1
+
+
+indexr has 1 benchmarkers	 out of 1 committers
+
+Top 5 committers of 	 indexr are 
+
+indexr	flow: 5/126
+
+Commits per developer affecting microbenchmark files in indexr	 are 5
+
+
+pgjdbc has 2 benchmarkers	 out of 81 committers
+
+Top 5 committers of 	 pgjdbc are 
+
+pgjdbc	Dave Cramer: 10/594
+
+pgjdbc	Kris Jurka: 0/571
+
+pgjdbc	Vladimir Sitnikov: 27/370
+
+pgjdbc	Bruce Momjian: 0/154
+
+pgjdbc	Barry Lind: 0/133
+
+Commits per developer affecting microbenchmark files in pgjdbc	 are 27,10
+
+
+Own-Programming-Language-Tutorial has 1 benchmarkers	 out of 2 committers
+
+Top 5 committers of 	 Own-Programming-Language-Tutorial are 
+
+Own-Programming-Language-Tutorial	Victor: 1/243
+
+Own-Programming-Language-Tutorial	GitHub: 0/4
+
+Commits per developer affecting microbenchmark files in Own-Programming-Language-Tutorial	 are 1
+
+
+cache2k-benchmark has 1 benchmarkers	 out of 4 committers
+
+Top 5 committers of 	 cache2k-benchmark are 
+
+cache2k-benchmark	Jens Wilke: 57/183
+
+cache2k-benchmark	jeans: 0/53
+
+cache2k-benchmark	Christian Esken: 0/1
+
+cache2k-benchmark	GitHub: 0/1
+
+Commits per developer affecting microbenchmark files in cache2k-benchmark	 are 57
+
+
+blog has 1 benchmarkers	 out of 3 committers
+
+Top 5 committers of 	 blog are 
+
+blog	rene schakmann: 1/6
+
+blog	Matthias Kausl: 0/4
+
+blog	renes: 0/1
+
+Commits per developer affecting microbenchmark files in blog	 are 1
+
+
+template-benchmark has 6 benchmarkers	 out of 7 committers
+
+Top 5 committers of 	 template-benchmark are 
+
+template-benchmark	Mitchell Bosecke: 5/21
+
+template-benchmark	Mitchell Bösecke: 5/12
+
+template-benchmark	Dzmitry Rasolka: 1/3
+
+template-benchmark	Martin Kouba: 3/3
+
+template-benchmark	Joe Lauer: 2/2
+
+Commits per developer affecting microbenchmark files in template-benchmark	 are 1,1,5,2,3,5
+
+
+cqrs-hotel has 1 benchmarkers	 out of 2 committers
+
+Top 5 committers of 	 cqrs-hotel are 
+
+cqrs-hotel	Esko Luontola: 3/174
+
+cqrs-hotel	SoCraTes UK: 0/2
+
+Commits per developer affecting microbenchmark files in cqrs-hotel	 are 3
+
+
+rut has 1 benchmarkers	 out of 2 committers
+
+Top 5 committers of 	 rut are 
+
+rut	Daniel Norberg: 6/191
+
+rut	Petter Måhlén: 0/2
+
+Commits per developer affecting microbenchmark files in rut	 are 6
+
+
+notification has 1 benchmarkers	 out of 3 committers
+
+Top 5 committers of 	 notification are 
+
+notification	Justin Plock: 9/222
+
+notification	GitHub: 0/15
+
+notification	Matt Brender: 0/1
+
+Commits per developer affecting microbenchmark files in notification	 are 9
+
+
+btreemap has 1 benchmarkers	 out of 1 committers
+
+Top 5 committers of 	 btreemap are 
+
+btreemap	Max Bolingbroke: 4/56
+
+Commits per developer affecting microbenchmark files in btreemap	 are 4
+
+
+hashmapTest has 2 benchmarkers	 out of 7 committers
+
+Top 5 committers of 	 hashmapTest are 
+
+hashmapTest	Mikhail Vorontsov: 4/12
+
+hashmapTest	GitHub: 0/5
+
+hashmapTest	shpikat: 0/4
+
+hashmapTest	Ben Alex: 0/4
+
+hashmapTest	leventov: 2/3
+
+Commits per developer affecting microbenchmark files in hashmapTest	 are 4,2
+
+
+westcache has 2 benchmarkers	 out of 3 committers
+
+Top 5 committers of 	 westcache are 
+
+westcache	bingoohuang: 9/186
+
+westcache	bingoo: 2/39
+
+westcache	GitHub: 0/1
+
+Commits per developer affecting microbenchmark files in westcache	 are 2,9
+
+
+JCTools has 11 benchmarkers	 out of 32 committers
+
+Top 5 committers of 	 JCTools are 
+
+JCTools	nitsanw: 52/500
+
+JCTools	Doug Lawrie: 4/63
+
+JCTools	GitHub: 7/44
+
+JCTools	Richard Warburton: 1/28
+
+JCTools	Nitsan Wakart: 0/19
+
+Commits per developer affecting microbenchmark files in JCTools	 are 52,4,1,7,1,1,3,1,1,3,1
+
+
+neo4j-jdbc has 1 benchmarkers	 out of 19 committers
+
+Top 5 committers of 	 neo4j-jdbc are 
+
+neo4j-jdbc	Alberto D'Este: 0/62
+
+neo4j-jdbc	Michael Hunger: 3/48
+
+neo4j-jdbc	glaggia-larus: 0/41
+
+neo4j-jdbc	Lorenzo Speranzoni: 0/40
+
+neo4j-jdbc	mfalcier-larus: 0/24
+
+Commits per developer affecting microbenchmark files in neo4j-jdbc	 are 3
+
+
+h2o-3 has 17 benchmarkers	 out of 115 committers
+
+Top 5 committers of 	 h2o-3 are 
+
+h2o-3	Arno Candel: 18/3975
+
+h2o-3	SpencerA: 0/2900
+
+h2o-3	eric eckstrand: 0/1632
+
+h2o-3	GitHub: 38/1408
+
+h2o-3	Cliff Click: 0/1326
+
+Commits per developer affecting microbenchmark files in h2o-3	 are 9,38,2,1,4,5,7,2,2,2,1,3,11,5,3,2,18
+
+
+motif has 1 benchmarkers	 out of 1 committers
+
+Top 5 committers of 	 motif are 
+
+motif	John Leacox: 17/67
+
+Commits per developer affecting microbenchmark files in motif	 are 17
+
+
+yauaa has 1 benchmarkers	 out of 3 committers
+
+Top 5 committers of 	 yauaa are 
+
+yauaa	Niels Basjes: 11/869
+
+yauaa	GitHub: 0/5
+
+yauaa	pawel-piecyk: 0/2
+
+Commits per developer affecting microbenchmark files in yauaa	 are 11
+
+
+benchmarks has 4 benchmarkers	 out of 7 committers
+
+Top 5 committers of 	 benchmarks are 
+
+benchmarks	Ben Alex: 54/144
+
+benchmarks	Martin Thompson: 4/89
+
+benchmarks	mjpt777: 0/64
+
+benchmarks	GitHub: 0/4
+
+benchmarks	Kristoffer Sjogren: 1/4
+
+Commits per developer affecting microbenchmark files in benchmarks	 are 54,4,1,2
+
+
+zipkin-reporter-java has 1 benchmarkers	 out of 4 committers
+
+Top 5 committers of 	 zipkin-reporter-java are 
+
+zipkin-reporter-java	zipkinci: 0/65
+
+zipkin-reporter-java	Adrian Cole: 0/65
+
+zipkin-reporter-java	GitHub: 4/55
+
+zipkin-reporter-java	adriancole: 0/52
+
+Commits per developer affecting microbenchmark files in zipkin-reporter-java	 are 4
+
+
+sbt-jmh has 3 benchmarkers	 out of 20 committers
+
+Top 5 committers of 	 sbt-jmh are 
+
+sbt-jmh	Konrad Malawski: 1/75
+
+sbt-jmh	Konrad `ktoso` Malawski: 4/35
+
+sbt-jmh	Konrad 'ktoso' Malawski: 0/29
+
+sbt-jmh	GitHub: 2/9
+
+sbt-jmh	Ismael Juma: 0/5
+
+Commits per developer affecting microbenchmark files in sbt-jmh	 are 2,4,1
+
+
+reactive-streams-commons has 3 benchmarkers	 out of 8 committers
+
+Top 5 committers of 	 reactive-streams-commons are 
+
+reactive-streams-commons	akarnokd: 14/270
+
+reactive-streams-commons	Stephane Maldini: 10/247
+
+reactive-streams-commons	Dávid Karnok: 10/161
+
+reactive-streams-commons	newuser: 0/2
+
+reactive-streams-commons	David Karnok: 0/2
+
+Commits per developer affecting microbenchmark files in reactive-streams-commons	 are 14,10,10
+
+
+stringbench has 2 benchmarkers	 out of 2 committers
+
+Top 5 committers of 	 stringbench are 
+
+stringbench	Stefan Mandel: 2/92
+
+stringbench	almondtools: 5/44
+
+Commits per developer affecting microbenchmark files in stringbench	 are 5,2
+
+
+tiny-async-java has 1 benchmarkers	 out of 5 committers
+
+Top 5 committers of 	 tiny-async-java are 
+
+tiny-async-java	John-John Tedro: 11/196
+
+tiny-async-java	Gabriel Gerhardsson: 0/4
+
+tiny-async-java	GitHub: 0/4
+
+tiny-async-java	udoprog: 0/2
+
+tiny-async-java	Morten Hekkvang: 0/1
+
+Commits per developer affecting microbenchmark files in tiny-async-java	 are 11
+
+
+logging-log4j2 has 12 benchmarkers	 out of 32 committers
+
+Top 5 committers of 	 logging-log4j2 are 
+
+logging-log4j2	Gary Gregory: 28/2062
+
+logging-log4j2	rpopma: 169/1928
+
+logging-log4j2	Gary D. Gregory: 1/1463
+
+logging-log4j2	Ralph Goers: 27/1224
+
+logging-log4j2	ggregory: 27/1049
+
+Commits per developer affecting microbenchmark files in logging-log4j2	 are 1,1,27,1,27,169,1,1,28,33,6,32
+
+
+RxJava2Extensions has 2 benchmarkers	 out of 5 committers
+
+Top 5 committers of 	 RxJava2Extensions are 
+
+RxJava2Extensions	akarnokd: 4/154
+
+RxJava2Extensions	Dávid Karnok: 2/56
+
+RxJava2Extensions	Martin Nowak: 0/11
+
+RxJava2Extensions	GitHub: 0/9
+
+RxJava2Extensions	David Karnok: 0/3
+
+Commits per developer affecting microbenchmark files in RxJava2Extensions	 are 4,2
+
+
+jmh-profilers has 5 benchmarkers	 out of 5 committers
+
+Top 5 committers of 	 jmh-profilers are 
+
+jmh-profilers	Aggelos Biboudis: 5/58
+
+jmh-profilers	GitHub: 2/5
+
+jmh-profilers	Leonardo FREITAS GOMES: 2/4
+
+jmh-profilers	Jason Zaugg: 1/1
+
+jmh-profilers	lwang: 1/1
+
+Commits per developer affecting microbenchmark files in jmh-profilers	 are 2,1,1,2,5
+
+
+mx has 3 benchmarkers	 out of 59 committers
+
+Top 5 committers of 	 mx are 
+
+mx	Doug Simon: 1/818
+
+mx	Gilles Duboscq: 1/485
+
+mx	Mick Jordan: 0/236
+
+mx	Josef Eisl: 3/190
+
+mx	Roland Schatz: 0/122
+
+Commits per developer affecting microbenchmark files in mx	 are 1,1,3
+
+
+ohc has 1 benchmarkers	 out of 5 committers
+
+Top 5 committers of 	 ohc are 
+
+ohc	Robert Stupp: 1/385
+
+ohc	Tyler Hobbs: 0/1
+
+ohc	Ariel Weisberg: 0/1
+
+ohc	GitHub: 0/1
+
+ohc	kenny.wang: 0/1
+
+Commits per developer affecting microbenchmark files in ohc	 are 1
+
+
+rtree-3d has 1 benchmarkers	 out of 1 committers
+
+Top 5 committers of 	 rtree-3d are 
+
+rtree-3d	Dave Moten: 3/125
+
+Commits per developer affecting microbenchmark files in rtree-3d	 are 3
+
+
+silverflash has 1 benchmarkers	 out of 1 committers
+
+Top 5 committers of 	 silverflash are 
+
+silverflash	Don Mendelson: 1/58
+
+Commits per developer affecting microbenchmark files in silverflash	 are 1
+
+
+aprof has 3 benchmarkers	 out of 5 committers
+
+Top 5 committers of 	 aprof are 
+
+aprof	Roman Elizarov: 5/139
+
+aprof	Dmitry Paraschenko: 0/74
+
+aprof	Denis Davydov: 0/12
+
+aprof	Nikita Koval: 1/6
+
+aprof	Dmitry Tsitelov: 1/5
+
+Commits per developer affecting microbenchmark files in aprof	 are 1,1,5
+
+
+rolling-metrics has 2 benchmarkers	 out of 6 committers
+
+Top 5 committers of 	 rolling-metrics are 
+
+rolling-metrics	vladimir.bukhtoyarov: 1/155
+
+rolling-metrics	GitHub: 1/4
+
+rolling-metrics	vladimir-bukhtoyarov: 0/1
+
+rolling-metrics	The Gitter Badger: 0/1
+
+rolling-metrics	Vladimir Bukhtoyarov: 0/1
+
+Commits per developer affecting microbenchmark files in rolling-metrics	 are 1,1
+
+
+TridentSDK has 4 benchmarkers	 out of 32 committers
+
+Top 5 committers of 	 TridentSDK are 
+
+TridentSDK	AgentTroll: 7/371
+
+TridentSDK	Vilsol: 2/101
+
+TridentSDK	Nick Robson: 2/78
+
+TridentSDK	Mazen K: 0/53
+
+TridentSDK	mythbusterma: 0/46
+
+Commits per developer affecting microbenchmark files in TridentSDK	 are 7,2,2,2
+
+
+sulky has 1 benchmarkers	 out of 2 committers
+
+Top 5 committers of 	 sulky are 
+
+sulky	Joern Huxhorn: 5/832
+
+sulky	Jörn Huxhorn: 0/9
+
+Commits per developer affecting microbenchmark files in sulky	 are 5
+
+
+druid has 24 benchmarkers	 out of 158 committers
+
+Top 5 committers of 	 druid are 
+
+druid	fjy: 2/1925
+
+druid	Fangjin Yang: 25/1253
+
+druid	Xavier Léauté: 10/948
+
+druid	Gian Merlino: 27/849
+
+druid	Charles Allen: 19/462
+
+Commits per developer affecting microbenchmark files in druid	 are 6,27,1,8,1,1,1,9,1,1,7,1,1,2,1,2,3,2,8,1,25,5,19,10
+
+
+airlift has 3 benchmarkers	 out of 30 committers
+
+Top 5 committers of 	 airlift are 
+
+airlift	Martin Traverso: 2/667
+
+airlift	Dain Sundstrom: 0/644
+
+airlift	David Phillips: 1/527
+
+airlift	Jordan Zimmerman: 0/144
+
+airlift	Mark Kent: 0/53
+
+Commits per developer affecting microbenchmark files in airlift	 are 1,1,2
+
+
+blixtser has 1 benchmarkers	 out of 2 committers
+
+Top 5 committers of 	 blixtser are 
+
+blixtser	Amir Moulavi: 3/50
+
+blixtser	Daniel Frisk: 0/6
+
+Commits per developer affecting microbenchmark files in blixtser	 are 3
+
+
+fsqio has 2 benchmarkers	 out of 3 committers
+
+Top 5 committers of 	 fsqio are 
+
+fsqio	Mateo Rodriguez: 1/769
+
+fsqio	fsproduser: 1/143
+
+fsqio	Daniel Harrison: 0/9
+
+Commits per developer affecting microbenchmark files in fsqio	 are 1,1
+
+
+Event4J has 1 benchmarkers	 out of 1 committers
+
+Top 5 committers of 	 Event4J are 
+
+Event4J	Techcable: 4/22
+
+Commits per developer affecting microbenchmark files in Event4J	 are 4
+
+
+reversegeocode has 1 benchmarkers	 out of 1 committers
+
+Top 5 committers of 	 reversegeocode are 
+
+reversegeocode	Erich Schubert: 3/29
+
+Commits per developer affecting microbenchmark files in reversegeocode	 are 3
+
+
+fast-select has 3 benchmarkers	 out of 3 committers
+
+Top 5 committers of 	 fast-select are 
+
+fast-select	terma: 21/173
+
+fast-select	GitHub: 5/56
+
+fast-select	Artem Stasiuk: 2/30
+
+Commits per developer affecting microbenchmark files in fast-select	 are 2,5,21
+
+
+audio-recognition has 1 benchmarkers	 out of 1 committers
+
+Top 5 committers of 	 audio-recognition are 
+
+audio-recognition	Dave Moten: 2/58
+
+Commits per developer affecting microbenchmark files in audio-recognition	 are 2
+
+
+jbender has 3 benchmarkers	 out of 9 committers
+
+Top 5 committers of 	 jbender are 
+
+jbender	Charles Gordon: 0/7
+
+jbender	circlespainter: 0/5
+
+jbender	Jon Parise: 4/5
+
+jbender	George Kankava: 2/3
+
+jbender	CHARLES GORDON: 1/2
+
+Commits per developer affecting microbenchmark files in jbender	 are 1,2,4
+
+
+gflogger has 3 benchmarkers	 out of 9 committers
+
+Top 5 committers of 	 gflogger are 
+
+gflogger	vladimir.dolzhenko: 0/111
+
+gflogger	Vladimir Dolzhenko: 4/41
+
+gflogger	dolzvla: 0/40
+
+gflogger	GitHub: 0/6
+
+gflogger	cherrus: 2/6
+
+Commits per developer affecting microbenchmark files in gflogger	 are 4,1,2
+
+
+parity has 1 benchmarkers	 out of 4 committers
+
+Top 5 committers of 	 parity are 
+
+parity	Jussi Virtanen: 2/669
+
+parity	GitHub: 0/28
+
+parity	lassi.maksimainen@gmail.com: 0/4
+
+parity	kenhorn: 0/1
+
+Commits per developer affecting microbenchmark files in parity	 are 2
+
+
+parallelism-benchmarks has 1 benchmarkers	 out of 1 committers
+
+Top 5 committers of 	 parallelism-benchmarks are 
+
+parallelism-benchmarks	ArienKock: 10/12
+
+Commits per developer affecting microbenchmark files in parallelism-benchmarks	 are 10
+
+
+artemis-odb has 1 benchmarkers	 out of 31 committers
+
+Top 5 committers of 	 artemis-odb are 
+
+artemis-odb	Adrian Papari: 0/1220
+
+artemis-odb	DaanVanYperen: 1/234
+
+artemis-odb	arni: 0/44
+
+artemis-odb	lopho: 0/30
+
+artemis-odb	Daan van Yperen: 0/27
+
+Commits per developer affecting microbenchmark files in artemis-odb	 are 1
+
+
+hppc has 1 benchmarkers	 out of 7 committers
+
+Top 5 committers of 	 hppc are 
+
+hppc	Dawid Weiss: 4/345
+
+hppc	dawidweiss: 0/80
+
+hppc	dweiss: 0/68
+
+hppc	stachoo: 0/6
+
+hppc	gdelafosse: 0/2
+
+Commits per developer affecting microbenchmark files in hppc	 are 4
+
+
+es4j has 2 benchmarkers	 out of 5 committers
+
+Top 5 committers of 	 es4j are 
+
+es4j	Yurii Rashkovskii: 31/487
+
+es4j	GitHub: 8/160
+
+es4j	Benjamin Gudehus: 0/2
+
+es4j	Riccardo Spagni: 0/1
+
+es4j	The Gitter Badger: 0/1
+
+Commits per developer affecting microbenchmark files in es4j	 are 31,8
+
+
+java-json-benchmark has 3 benchmarkers	 out of 3 committers
+
+Top 5 committers of 	 java-json-benchmark are 
+
+java-json-benchmark	Fabien Renaud: 20/69
+
+java-json-benchmark	mhyeon.lee: 4/8
+
+java-json-benchmark	GitHub: 2/4
+
+Commits per developer affecting microbenchmark files in java-json-benchmark	 are 4,2,20
+
+
+rxjava-extras has 1 benchmarkers	 out of 4 committers
+
+Top 5 committers of 	 rxjava-extras are 
+
+rxjava-extras	Dave Moten: 28/1350
+
+rxjava-extras	David Moten: 0/35
+
+rxjava-extras	GitHub: 0/16
+
+rxjava-extras	akarnokd: 0/2
+
+Commits per developer affecting microbenchmark files in rxjava-extras	 are 28
+
+
+cyclops-react has 3 benchmarkers	 out of 31 committers
+
+Top 5 committers of 	 cyclops-react are 
+
+cyclops-react	John McClean: 7/2500
+
+cyclops-react	GitHub: 1/223
+
+cyclops-react	johnmcclean-aol: 0/166
+
+cyclops-react	William Yang: 1/27
+
+cyclops-react	johnmcclean: 0/24
+
+Commits per developer affecting microbenchmark files in cyclops-react	 are 1,7,1
+
+
+stagemonitor has 2 benchmarkers	 out of 32 committers
+
+Top 5 committers of 	 stagemonitor are 
+
+stagemonitor	Felix Barnsteiner: 9/1099
+
+stagemonitor	Felix: 1/263
+
+stagemonitor	felixbarnsteiner: 0/205
+
+stagemonitor	GitHub: 0/59
+
+stagemonitor	Fabian Trampusch: 0/48
+
+Commits per developer affecting microbenchmark files in stagemonitor	 are 1,9
+
+
+caffeine has 1 benchmarkers	 out of 18 committers
+
+Top 5 committers of 	 caffeine are 
+
+caffeine	Ben Manes: 51/982
+
+caffeine	gilga1983: 0/12
+
+caffeine	GitHub: 0/5
+
+caffeine	Julian Vassev: 0/3
+
+caffeine	Ken Dombeck: 0/2
+
+Commits per developer affecting microbenchmark files in caffeine	 are 51
+
+
+TinyPinyin has 1 benchmarkers	 out of 3 committers
+
+Top 5 committers of 	 TinyPinyin are 
+
+TinyPinyin	Yacong Gu: 1/11
+
+TinyPinyin	promeG: 0/7
+
+TinyPinyin	yacong: 0/2
+
+Commits per developer affecting microbenchmark files in TinyPinyin	 are 1
+
+
+marklogic-jena has 1 benchmarkers	 out of 8 committers
+
+Top 5 committers of 	 marklogic-jena are 
+
+marklogic-jena	Charles Greer: 3/101
+
+marklogic-jena	kkanthet: 0/28
+
+marklogic-jena	Shiva Verma: 0/8
+
+marklogic-jena	Kiran Kantheti: 0/3
+
+marklogic-jena	Akshay Sonvane: 0/2
+
+Commits per developer affecting microbenchmark files in marklogic-jena	 are 3
+
+
+aircompressor has 2 benchmarkers	 out of 7 committers
+
+Top 5 committers of 	 aircompressor are 
+
+aircompressor	Dain Sundstrom: 3/101
+
+aircompressor	Martin Traverso: 6/63
+
+aircompressor	David Phillips: 0/11
+
+aircompressor	Algirdas Raščius: 0/1
+
+aircompressor	Steven Schlansker: 0/1
+
+Commits per developer affecting microbenchmark files in aircompressor	 are 6,3
+
+
+paleo has 2 benchmarkers	 out of 4 committers
+
+Top 5 committers of 	 paleo are 
+
+paleo	Rahel Lüthy: 7/183
+
+paleo	Stefan K: 0/1
+
+paleo	Ben McCann: 1/1
+
+paleo	David Moles: 0/1
+
+Commits per developer affecting microbenchmark files in paleo	 are 1,7
+
+
+netty has 3 benchmarkers	 out of 46 committers
+
+Top 5 committers of 	 netty are 
+
+netty	Trustin Lee: 0/4321
+
+netty	Norman Maurer: 30/3167
+
+netty	Scott Mitchell: 25/540
+
+netty	norman: 0/207
+
+netty	nmittler: 2/73
+
+Commits per developer affecting microbenchmark files in netty	 are 2,25,30
+
+
+tchannel-java has 5 benchmarkers	 out of 20 committers
+
+Top 5 committers of 	 tchannel-java are 
+
+tchannel-java	Will Salisbury: 3/129
+
+tchannel-java	Juncao Li: 28/123
+
+tchannel-java	Yegor Borovikov: 4/64
+
+tchannel-java	Alexander Shopov: 3/44
+
+tchannel-java	GitHub: 0/32
+
+Commits per developer affecting microbenchmark files in tchannel-java	 are 3,9,28,4,3
+
+
+graal-core has 11 benchmarkers	 out of 66 committers
+
+Top 5 committers of 	 graal-core are 
+
+graal-core	Doug Simon: 18/3250
+
+graal-core	Thomas Wuerthinger: 0/1840
+
+graal-core	Josef Eisl: 7/1582
+
+graal-core	Lukas Stadler: 0/1222
+
+graal-core	Gilles Duboscq: 2/1183
+
+Commits per developer affecting microbenchmark files in graal-core	 are 3,2,4,9,4,18,1,7,1,7,1
+
+
+template-compiler has 1 benchmarkers	 out of 15 committers
+
+Top 5 committers of 	 template-compiler are 
+
+template-compiler	Patrick Hensley: 13/502
+
+template-compiler	Jeff Helt: 0/11
+
+template-compiler	Nazmul Hassan: 0/9
+
+template-compiler	Julian Boilen: 0/4
+
+template-compiler	Leo Lou: 0/4
+
+Commits per developer affecting microbenchmark files in template-compiler	 are 13
+
+
+commcare-core has 2 benchmarkers	 out of 75 committers
+
+Top 5 committers of 	 commcare-core are 
+
+commcare-core	Phillip Mates: 11/1839
+
+commcare-core	Clayton Sims: 0/924
+
+commcare-core	Will Pride: 0/828
+
+commcare-core	csims: 0/717
+
+commcare-core	clayton sims: 0/561
+
+Commits per developer affecting microbenchmark files in commcare-core	 are 11,3
+
+
+gs-collections has 7 benchmarkers	 out of 40 committers
+
+Top 5 committers of 	 gs-collections are 
+
+gs-collections	Craig P. Motlin: 18/300
+
+gs-collections	Donald Raab: 5/181
+
+gs-collections	Bhavana Hindupur: 0/144
+
+gs-collections	Kristen O'Leary: 4/55
+
+gs-collections	Saravana Perumal K: 0/50
+
+Commits per developer affecting microbenchmark files in gs-collections	 are 1,4,5,1,5,2,18
+
+
+phreak-examples has 1 benchmarkers	 out of 2 committers
+
+Top 5 committers of 	 phreak-examples are 
+
+phreak-examples	Marek Winkler: 1/17
+
+phreak-examples	Lukáš Petrovický: 0/11
+
+Commits per developer affecting microbenchmark files in phreak-examples	 are 1
+
+
+eclipselink.runtime has 5 benchmarkers	 out of 61 committers
+
+Top 5 committers of 	 eclipselink.runtime are 
+
+eclipselink.runtime	Eric Gwin: 0/998
+
+eclipselink.runtime	Tom Ware: 0/802
+
+eclipselink.runtime	Guy Pelletier: 0/568
+
+eclipselink.runtime	Edwin Tang: 0/564
+
+eclipselink.runtime	Mike Norman: 0/529
+
+Commits per developer affecting microbenchmark files in eclipselink.runtime	 are 6,1,3,1,4
+
+
+siv-mode has 1 benchmarkers	 out of 3 committers
+
+Top 5 committers of 	 siv-mode are 
+
+siv-mode	Sebastian Stenzel: 5/58
+
+siv-mode	GitHub: 0/12
+
+siv-mode	Tim McLean: 0/6
+
+Commits per developer affecting microbenchmark files in siv-mode	 are 5
+
+
+commonmark-java has 2 benchmarkers	 out of 21 committers
+
+Top 5 committers of 	 commonmark-java are 
+
+commonmark-java	Robin Stocker: 12/405
+
+commonmark-java	Paul Thompson: 0/26
+
+commonmark-java	GitHub: 0/22
+
+commonmark-java	JinneeJ: 0/20
+
+commonmark-java	Chiwan Park: 0/12
+
+Commits per developer affecting microbenchmark files in commonmark-java	 are 12,3
+
+
+objenesis has 1 benchmarkers	 out of 9 committers
+
+Top 5 committers of 	 objenesis are 
+
+objenesis	Henri Tremblay: 4/521
+
+objenesis	Leonardo Mesquita: 0/36
+
+objenesis	GitHub: 0/5
+
+objenesis	Joe Walnes: 0/5
+
+objenesis	Stepan Koltsov: 0/1
+
+Commits per developer affecting microbenchmark files in objenesis	 are 4
+
+
+json-avro-converter has 1 benchmarkers	 out of 7 committers
+
+Top 5 committers of 	 json-avro-converter are 
+
+json-avro-converter	Adam Dubiel: 0/23
+
+json-avro-converter	Lukasz Druminski: 1/2
+
+json-avro-converter	GitHub: 0/2
+
+json-avro-converter	_eco_opbox: 0/2
+
+json-avro-converter	bamboo: 0/1
+
+Commits per developer affecting microbenchmark files in json-avro-converter	 are 1
+
+
+blynk-server has 2 benchmarkers	 out of 14 committers
+
+Top 5 committers of 	 blynk-server are 
+
+blynk-server	Dmitriy Dumanskiy: 2/3708
+
+blynk-server	doom369: 0/93
+
+blynk-server	GitHub: 1/11
+
+blynk-server	artem-v: 0/8
+
+blynk-server	Igor Гайдайчук: 0/7
+
+Commits per developer affecting microbenchmark files in blynk-server	 are 2,1
+
+
+rest-schemagen has 1 benchmarkers	 out of 10 committers
+
+Top 5 committers of 	 rest-schemagen are 
+
+rest-schemagen	Andreas Würl: 0/44
+
+rest-schemagen	joerg.adler: 0/39
+
+rest-schemagen	GitHub: 0/28
+
+rest-schemagen	Jörg Adler: 0/23
+
+rest-schemagen	Andreas Würl: 1/19
+
+Commits per developer affecting microbenchmark files in rest-schemagen	 are 1
+
+
+cukedoctor has 1 benchmarkers	 out of 9 committers
+
+Top 5 committers of 	 cukedoctor are 
+
+cukedoctor	rmpestano: 8/552
+
+cukedoctor	rafael-pestano: 0/23
+
+cukedoctor	GitHub: 0/23
+
+cukedoctor	Rafael M. Pestano: 0/9
+
+cukedoctor	birlibirloque: 0/2
+
+Commits per developer affecting microbenchmark files in cukedoctor	 are 8
+
+
+pushy has 1 benchmarkers	 out of 26 committers
+
+Top 5 committers of 	 pushy are 
+
+pushy	Jon Chambers: 5/1179
+
+pushy	GitHub: 0/64
+
+pushy	Matthias Wessendorf: 0/19
+
+pushy	Rui Guo: 0/6
+
+pushy	leelynne: 0/5
+
+Commits per developer affecting microbenchmark files in pushy	 are 5
+
+
+autolink-java has 2 benchmarkers	 out of 5 committers
+
+Top 5 committers of 	 autolink-java are 
+
+autolink-java	Robin Stocker: 3/83
+
+autolink-java	MTDdk: 1/8
+
+autolink-java	GitHub: 0/6
+
+autolink-java	otopba: 0/1
+
+autolink-java	Andy Klimczak: 0/1
+
+Commits per developer affecting microbenchmark files in autolink-java	 are 1,3
+

@@ -1,0 +1,1839 @@
+committers: 	4886
+
+benchmarkers: 	482
+
+
+id3v2 has 2 benchmarkers	 out of 6 committers
+
+Top 5 committers of 	 id3v2 are 
+
+id3v2	bogem: 31/316
+
+id3v2	Albert Nigmatzianov: 8/115
+
+id3v2	GitHub: 0/53
+
+id3v2	Albert: 0/6
+
+id3v2	Marcus Rohrmoser: 0/2
+
+Commits per developer affecting microbenchmark files in id3v2	 are 8,31
+
+
+echo-sample has 1 benchmarkers	 out of 2 committers
+
+Top 5 committers of 	 echo-sample are 
+
+echo-sample	iktakahiro: 2/14
+
+echo-sample	Takahiro Ikeuchi: 0/1
+
+Commits per developer affecting microbenchmark files in echo-sample	 are 2
+
+
+gencode has 2 benchmarkers	 out of 7 committers
+
+Top 5 committers of 	 gencode are 
+
+gencode	Andrew.Leap: 6/23
+
+gencode	andyleap: 0/8
+
+gencode	GitHub: 0/5
+
+gencode	Blake Caldwell: 1/4
+
+gencode	Kailash Nadh: 0/2
+
+Commits per developer affecting microbenchmark files in gencode	 are 1,6
+
+
+fluent-agent-hydra has 2 benchmarkers	 out of 4 committers
+
+Top 5 committers of 	 fluent-agent-hydra are 
+
+fluent-agent-hydra	FUJIWARA Shunichiro: 7/182
+
+fluent-agent-hydra	Tatsuhiko Kubo: 1/10
+
+fluent-agent-hydra	GitHub: 0/4
+
+fluent-agent-hydra	Mikio Hara: 0/2
+
+Commits per developer affecting microbenchmark files in fluent-agent-hydra	 are 1,7
+
+
+gocql has 3 benchmarkers	 out of 116 committers
+
+Top 5 committers of 	 gocql are 
+
+gocql	Chris Bannister: 7/744
+
+gocql	Ben Hood: 0/272
+
+gocql	GitHub: 0/120
+
+gocql	Christoph Hack: 0/101
+
+gocql	Phillip Couto: 0/78
+
+Commits per developer affecting microbenchmark files in gocql	 are 2,7,2
+
+
+ejson has 1 benchmarkers	 out of 12 committers
+
+Top 5 committers of 	 ejson are 
+
+ejson	Burke Libbey: 0/32
+
+ejson	GitHub: 1/9
+
+ejson	Steve Hodgkiss: 0/6
+
+ejson	Bouke van der Bijl: 0/4
+
+ejson	Jean Boussier: 0/3
+
+Commits per developer affecting microbenchmark files in ejson	 are 1
+
+
+rulio has 1 benchmarkers	 out of 6 committers
+
+Top 5 committers of 	 rulio are 
+
+rulio	Jamie Stephens: 2/73
+
+rulio	GitHub: 0/4
+
+rulio	Trent Schmidt: 0/4
+
+rulio	John Eismeier: 0/1
+
+rulio	Jearvon Dharrie: 0/1
+
+Commits per developer affecting microbenchmark files in rulio	 are 2
+
+
+otto has 1 benchmarkers	 out of 30 committers
+
+Top 5 committers of 	 otto are 
+
+otto	Robert Krimen: 0/478
+
+otto	deoxxa: 0/38
+
+otto	Steven Hartland: 1/32
+
+otto	Conrad Pankoff: 0/27
+
+otto	wolfgarnet: 0/18
+
+Commits per developer affecting microbenchmark files in otto	 are 1
+
+
+empire has 4 benchmarkers	 out of 37 committers
+
+Top 5 committers of 	 empire are 
+
+empire	Eric J. Holmes: 6/989
+
+empire	Ben Marini: 0/303
+
+empire	Eric Holmes: 0/274
+
+empire	Michael Barrett: 0/194
+
+empire	Michael Hahn: 2/165
+
+Commits per developer affecting microbenchmark files in empire	 are 6,1,1,2
+
+
+kapacitor has 5 benchmarkers	 out of 54 committers
+
+Top 5 committers of 	 kapacitor are 
+
+kapacitor	Nathaniel Cook: 12/972
+
+kapacitor	GitHub: 6/143
+
+kapacitor	Chris Goller: 0/112
+
+kapacitor	Michael Desa: 4/77
+
+kapacitor	Ross McDonald: 0/26
+
+Commits per developer affecting microbenchmark files in kapacitor	 are 3,6,2,12,4
+
+
+hypercli has 4 benchmarkers	 out of 1372 committers
+
+Top 5 committers of 	 hypercli are 
+
+hypercli	Michael Crosby: 0/1893
+
+hypercli	Victor Vieux: 0/1597
+
+hypercli	Solomon Hykes: 0/1212
+
+hypercli	Guillaume J. Charmes: 0/1197
+
+hypercli	Tianon Gravi: 0/810
+
+Commits per developer affecting microbenchmark files in hypercli	 are 2,1,1,2
+
+
+chihaya has 3 benchmarkers	 out of 16 committers
+
+Top 5 committers of 	 chihaya are 
+
+chihaya	Jimmy Zelinskie: 1/487
+
+chihaya	Justin Li: 0/234
+
+chihaya	GitHub: 3/138
+
+chihaya	Leo Balduf: 2/124
+
+chihaya	cpb8010: 0/20
+
+Commits per developer affecting microbenchmark files in chihaya	 are 2,3,1
+
+
+epi has 1 benchmarkers	 out of 1 committers
+
+Top 5 committers of 	 epi are 
+
+epi	Peter Mrekaj: 112/283
+
+Commits per developer affecting microbenchmark files in epi	 are 112
+
+
+fasthttp has 1 benchmarkers	 out of 11 committers
+
+Top 5 committers of 	 fasthttp are 
+
+fasthttp	Aliaksandr Valialkin: 68/959
+
+fasthttp	Aleksandr Razumov: 0/4
+
+fasthttp	Sebastian Schepens: 0/2
+
+fasthttp	Zviad Metreveli: 0/2
+
+fasthttp	招牌疯子: 0/2
+
+Commits per developer affecting microbenchmark files in fasthttp	 are 68
+
+
+goddd has 1 benchmarkers	 out of 2 committers
+
+Top 5 committers of 	 goddd are 
+
+goddd	Marcus Olsson: 3/350
+
+goddd	GitHub: 0/5
+
+Commits per developer affecting microbenchmark files in goddd	 are 3
+
+
+compress has 4 benchmarkers	 out of 9 committers
+
+Top 5 committers of 	 compress are 
+
+compress	Joe Tsai: 35/382
+
+compress	Klaus Post: 7/168
+
+compress	klauspost: 3/66
+
+compress	GitHub: 2/25
+
+compress	Nigel Tao: 0/6
+
+Commits per developer affecting microbenchmark files in compress	 are 7,2,35,3
+
+
+dns has 2 benchmarkers	 out of 84 committers
+
+Top 5 committers of 	 dns are 
+
+dns	Miek Gieben: 4/3283
+
+dns	Alex Sergeyev: 0/53
+
+dns	GitHub: 2/52
+
+dns	Filippo Valsorda: 0/37
+
+dns	Andrew Tunnell-Jones: 0/33
+
+Commits per developer affecting microbenchmark files in dns	 are 2,4
+
+
+pool has 1 benchmarkers	 out of 3 committers
+
+Top 5 committers of 	 pool are 
+
+pool	joeybloggs: 1/32
+
+pool	Dean Karn: 0/8
+
+pool	GitHub: 0/2
+
+Commits per developer affecting microbenchmark files in pool	 are 1
+
+
+zap has 3 benchmarkers	 out of 4 committers
+
+Top 5 committers of 	 zap are 
+
+zap	Akshay Shah: 36/211
+
+zap	GitHub: 10/96
+
+zap	Prashant Varanasi: 5/31
+
+zap	Aiden Scandella: 0/1
+
+Commits per developer affecting microbenchmark files in zap	 are 10,5,36
+
+
+kone has 1 benchmarkers	 out of 2 committers
+
+Top 5 committers of 	 kone are 
+
+kone	xjdrew: 5/58
+
+kone	GitHub: 0/1
+
+Commits per developer affecting microbenchmark files in kone	 are 5
+
+
+dynamo has 1 benchmarkers	 out of 11 committers
+
+Top 5 committers of 	 dynamo are 
+
+dynamo	Greg: 5/132
+
+dynamo	Gregory Roseberry: 0/20
+
+dynamo	GitHub: 0/13
+
+dynamo	kyokomi: 0/3
+
+dynamo	Emirhan Marlalı: 0/3
+
+Commits per developer affecting microbenchmark files in dynamo	 are 5
+
+
+sigourney has 1 benchmarkers	 out of 7 committers
+
+Top 5 committers of 	 sigourney are 
+
+sigourney	Andrew Gerrand: 8/179
+
+sigourney	nf@wh3rd.net: 0/5
+
+sigourney	Mehmet Akin: 0/4
+
+sigourney	Kamil Kisiel: 0/2
+
+sigourney	Burcu Dogan: 0/1
+
+Commits per developer affecting microbenchmark files in sigourney	 are 8
+
+
+roshi has 3 benchmarkers	 out of 7 committers
+
+Top 5 committers of 	 roshi are 
+
+roshi	Peter Bourgon: 3/244
+
+roshi	Bjoern Rabenstein: 1/25
+
+roshi	Björn Rabenstein: 0/5
+
+roshi	Nick Stenning: 2/4
+
+roshi	Freenerd: 0/1
+
+Commits per developer affecting microbenchmark files in roshi	 are 2,3,1
+
+
+go-disruptor has 1 benchmarkers	 out of 3 committers
+
+Top 5 committers of 	 go-disruptor are 
+
+go-disruptor	Oliver, Jonathan: 38/302
+
+go-disruptor	Jonathan Oliver: 0/3
+
+go-disruptor	Michael Whatcott: 0/1
+
+Commits per developer affecting microbenchmark files in go-disruptor	 are 38
+
+
+psiphon-tunnel-core has 2 benchmarkers	 out of 18 committers
+
+Top 5 committers of 	 psiphon-tunnel-core are 
+
+psiphon-tunnel-core	Rod Hynes: 7/1395
+
+psiphon-tunnel-core	GitHub: 1/304
+
+psiphon-tunnel-core	Adam Pritchard: 0/159
+
+psiphon-tunnel-core	Eugene Fryntov: 0/113
+
+psiphon-tunnel-core	Michael Goldberger: 0/75
+
+Commits per developer affecting microbenchmark files in psiphon-tunnel-core	 are 7,1
+
+
+msgpack has 2 benchmarkers	 out of 12 committers
+
+Top 5 committers of 	 msgpack are 
+
+msgpack	Vladimir Mihailenco: 16/255
+
+msgpack	GitHub: 2/46
+
+msgpack	Paul Jolly: 0/3
+
+msgpack	Rafal Jeczalik: 0/3
+
+msgpack	Xi Chen: 0/3
+
+Commits per developer affecting microbenchmark files in msgpack	 are 2,16
+
+
+algorithms has 1 benchmarkers	 out of 2 committers
+
+Top 5 committers of 	 algorithms are 
+
+algorithms	arnauddri: 3/118
+
+algorithms	Arnaud Drizard: 0/14
+
+Commits per developer affecting microbenchmark files in algorithms	 are 3
+
+
+golib has 1 benchmarkers	 out of 3 committers
+
+Top 5 committers of 	 golib are 
+
+golib	Frank Mueller: 6/239
+
+golib	themue: 0/77
+
+golib	GitHub: 0/23
+
+Commits per developer affecting microbenchmark files in golib	 are 6
+
+
+log has 2 benchmarkers	 out of 10 committers
+
+Top 5 committers of 	 log are 
+
+log	TJ Holowaychuk: 3/75
+
+log	GitHub: 0/11
+
+log	Carlos Alexandro Becker: 0/3
+
+log	Olivier Elshocht: 0/2
+
+log	Amir Abushareb: 0/1
+
+Commits per developer affecting microbenchmark files in log	 are 1,3
+
+
+doorman has 1 benchmarkers	 out of 6 committers
+
+Top 5 committers of 	 doorman are 
+
+doorman	Ric (Ryszard) Szopa: 1/47
+
+doorman	Ric Szopa: 0/10
+
+doorman	Jos Visser: 0/8
+
+doorman	xn0px90: 0/1
+
+doorman	Raushaniya: 0/1
+
+Commits per developer affecting microbenchmark files in doorman	 are 1
+
+
+xcodis has 1 benchmarkers	 out of 1 committers
+
+Top 5 committers of 	 xcodis are 
+
+xcodis	siddontang: 2/32
+
+Commits per developer affecting microbenchmark files in xcodis	 are 2
+
+
+podbaby has 1 benchmarkers	 out of 1 committers
+
+Top 5 committers of 	 podbaby are 
+
+podbaby	Dan Jacob: 4/563
+
+Commits per developer affecting microbenchmark files in podbaby	 are 4
+
+
+glob has 3 benchmarkers	 out of 6 committers
+
+Top 5 committers of 	 glob are 
+
+glob	gobwas: 13/66
+
+glob	s.kamardin: 1/37
+
+glob	Sergey Kamardin: 1/9
+
+glob	Shawn Smith: 0/1
+
+glob	GitHub: 0/1
+
+Commits per developer affecting microbenchmark files in glob	 are 1,13,1
+
+
+gocryptfs has 1 benchmarkers	 out of 4 committers
+
+Top 5 committers of 	 gocryptfs are 
+
+gocryptfs	Jakob Unterwurzacher: 7/1026
+
+gocryptfs	rfjakob: 0/40
+
+gocryptfs	GitHub: 0/7
+
+gocryptfs	Sebastian Lackner: 0/4
+
+Commits per developer affecting microbenchmark files in gocryptfs	 are 7
+
+
+mig has 2 benchmarkers	 out of 26 committers
+
+Top 5 committers of 	 mig are 
+
+mig	Julien Vehent: 6/1068
+
+mig	Aaron Meihm: 3/562
+
+mig	GitHub: 0/140
+
+mig	Julien Vehent [: 0/25
+
+mig	Dustin J. Mitchell: 0/17
+
+Commits per developer affecting microbenchmark files in mig	 are 3,6
+
+
+nsq has 18 benchmarkers	 out of 78 committers
+
+Top 5 committers of 	 nsq are 
+
+nsq	Matt Reiferson: 38/1206
+
+nsq	Jehiah Czebotar: 8/368
+
+nsq	GitHub: 1/80
+
+nsq	Pierce Lopez: 2/52
+
+nsq	Dan Frank: 0/20
+
+Commits per developer affecting microbenchmark files in nsq	 are 1,2,1,38,3,1,1,1,1,1,1,3,8,1,1,1,1,1
+
+
+go-ipfs has 44 benchmarkers	 out of 169 committers
+
+Top 5 committers of 	 go-ipfs are 
+
+go-ipfs	Juan Batiz-Benet: 7/2290
+
+go-ipfs	Jeromy: 101/1456
+
+go-ipfs	Brian Tiger Chow: 2/912
+
+go-ipfs	GitHub: 69/736
+
+go-ipfs	Jakub Sztandera: 22/379
+
+Commits per developer affecting microbenchmark files in go-ipfs	 are 13,24,1,1,2,3,2,69,1,1,2,101,2,26,3,3,5,1,7,2,2,2,1,1,1,1,2,2,1,1,9,1,10,1,1,22,1,2,1,1,2,16,3,2
+
+
+guble has 4 benchmarkers	 out of 16 committers
+
+Top 5 committers of 	 guble are 
+
+guble	Cosmin Rentea: 65/713
+
+guble	Bogdan I. Bursuc: 35/479
+
+guble	Marian Craciunescu: 16/251
+
+guble	GitHub: 7/153
+
+guble	smancke: 0/113
+
+Commits per developer affecting microbenchmark files in guble	 are 35,7,65,16
+
+
+govaluate has 4 benchmarkers	 out of 17 committers
+
+Top 5 committers of 	 govaluate are 
+
+govaluate	George Lester: 14/230
+
+govaluate	=: 1/23
+
+govaluate	Knetic: 0/15
+
+govaluate	GitHub: 1/14
+
+govaluate	glester: 0/9
+
+Commits per developer affecting microbenchmark files in govaluate	 are 1,1,1,14
+
+
+go_kafka_client has 2 benchmarkers	 out of 28 committers
+
+Top 5 committers of 	 go_kafka_client are 
+
+go_kafka_client	serejja: 7/362
+
+go_kafka_client	Ivan Lyutov: 0/229
+
+go_kafka_client	Serhey Novachenko: 0/71
+
+go_kafka_client	Joe Stein: 0/61
+
+go_kafka_client	Marcus: 0/37
+
+Commits per developer affecting microbenchmark files in go_kafka_client	 are 7,3
+
+
+deblocus has 1 benchmarkers	 out of 11 committers
+
+Top 5 committers of 	 deblocus are 
+
+deblocus	vickery: 1/180
+
+deblocus	spance: 0/85
+
+deblocus	fd74a05d0b: 0/51
+
+deblocus	Ray: 0/33
+
+deblocus	07d6: 0/23
+
+Commits per developer affecting microbenchmark files in deblocus	 are 1
+
+
+markdown has 1 benchmarkers	 out of 4 committers
+
+Top 5 committers of 	 markdown are 
+
+markdown	opennota: 4/30
+
+markdown	Maciej Lisiewski: 0/1
+
+markdown	GitHub: 0/1
+
+markdown	John R. Lenton: 0/1
+
+Commits per developer affecting microbenchmark files in markdown	 are 4
+
+
+kythe has 3 benchmarkers	 out of 16 committers
+
+Top 5 committers of 	 kythe are 
+
+kythe	Cody Schroeder: 9/986
+
+kythe	Luke Zarko: 1/480
+
+kythe	M. J. Fromberger: 2/433
+
+kythe	Shahms King: 0/147
+
+kythe	Salvatore Guarnieri: 0/124
+
+Commits per developer affecting microbenchmark files in kythe	 are 2,9,1
+
+
+mesos-dns has 4 benchmarkers	 out of 39 committers
+
+Top 5 committers of 	 mesos-dns are 
+
+mesos-dns	Christos Kozyrakis: 0/146
+
+mesos-dns	Tomás Senart: 1/132
+
+mesos-dns	James DeFelice: 2/78
+
+mesos-dns	Sargun Dhillon: 0/53
+
+mesos-dns	GitHub: 1/30
+
+Commits per developer affecting microbenchmark files in mesos-dns	 are 1,1,1,2
+
+
+mathgl has 7 benchmarkers	 out of 16 committers
+
+Top 5 committers of 	 mathgl are 
+
+mathgl	Jsor: 27/255
+
+mathgl	Jragonmiris: 0/67
+
+mathgl	Jeff Juozapaitis: 2/23
+
+mathgl	Martin Hildebrandt: 8/23
+
+mathgl	Dmitri Shuralyov: 1/22
+
+Commits per developer affecting microbenchmark files in mathgl	 are 1,2,8,1,1,27,2
+
+
+pgx has 1 benchmarkers	 out of 51 committers
+
+Top 5 committers of 	 pgx are 
+
+pgx	Jack Christensen: 19/931
+
+pgx	Manni Wood: 0/54
+
+pgx	GitHub: 0/49
+
+pgx	Kris Wehner: 0/23
+
+pgx	Karl Seguin: 0/10
+
+Commits per developer affecting microbenchmark files in pgx	 are 19
+
+
+gopacket has 19 benchmarkers	 out of 65 committers
+
+Top 5 committers of 	 gopacket are 
+
+gopacket	Graeme Connell: 71/634
+
+gopacket	GitHub: 1/46
+
+gopacket	David Stainton: 0/34
+
+gopacket	Andreas Krennmair: 0/31
+
+gopacket	João Valverde: 3/29
+
+Commits per developer affecting microbenchmark files in gopacket	 are 3,1,1,1,2,10,1,1,1,3,3,1,5,71,2,2,1,1,2
+
+
+storm has 2 benchmarkers	 out of 12 committers
+
+Top 5 committers of 	 storm are 
+
+storm	Asdine El Hrychy: 4/261
+
+storm	GitHub: 2/47
+
+storm	Bjørn Erik Pedersen: 0/28
+
+storm	Bruno Clermont: 0/10
+
+storm	Peter Fern: 0/4
+
+Commits per developer affecting microbenchmark files in storm	 are 4,2
+
+
+golibs has 2 benchmarkers	 out of 14 committers
+
+Top 5 committers of 	 golibs are 
+
+golibs	Daniel Morsing: 0/22
+
+golibs	Marek Majkowski: 1/21
+
+golibs	Ian Pye: 0/7
+
+golibs	Lorenz Bauer: 0/7
+
+golibs	Tom Arnfeld: 0/5
+
+Commits per developer affecting microbenchmark files in golibs	 are 1,1
+
+
+jsonparser has 8 benchmarkers	 out of 22 committers
+
+Top 5 committers of 	 jsonparser are 
+
+jsonparser	Leonid Bugaev: 14/111
+
+jsonparser	GitHub: 3/41
+
+jsonparser	Drew Boyuka: 2/24
+
+jsonparser	vkd: 0/5
+
+jsonparser	Rami.D: 0/4
+
+Commits per developer affecting microbenchmark files in jsonparser	 are 1,2,2,3,1,14,1,1
+
+
+biogo has 3 benchmarkers	 out of 8 committers
+
+Top 5 committers of 	 biogo are 
+
+biogo	kortschak: 18/470
+
+biogo	Dan Kortschak: 1/20
+
+biogo	Josh Bleecher Snyder: 1/14
+
+biogo	Gordon Gremme: 0/4
+
+biogo	Emmanouil "Manolis" Maragkakis: 0/3
+
+Commits per developer affecting microbenchmark files in biogo	 are 18,1,1
+
+
+quicktemplate has 1 benchmarkers	 out of 5 committers
+
+Top 5 committers of 	 quicktemplate are 
+
+quicktemplate	Aliaksandr Valialkin: 6/213
+
+quicktemplate	GitHub: 0/1
+
+quicktemplate	Steve Perkins: 0/1
+
+quicktemplate	Andrew Po: 0/1
+
+quicktemplate	Eddie Scholtz: 0/1
+
+Commits per developer affecting microbenchmark files in quicktemplate	 are 6
+
+
+goread has 1 benchmarkers	 out of 20 committers
+
+Top 5 committers of 	 goread are 
+
+goread	Matt Jibson: 1/1023
+
+goread	Fajran Iman Rusadi: 0/21
+
+goread	Michael Blakeley: 0/6
+
+goread	Phil Haack: 0/5
+
+goread	aalear: 0/3
+
+Commits per developer affecting microbenchmark files in goread	 are 1
+
+
+lantern has 13 benchmarkers	 out of 56 committers
+
+Top 5 committers of 	 lantern are 
+
+lantern	Ox Cart: 158/1416
+
+lantern	Todd Blose: 15/778
+
+lantern	Myles Horton: 20/646
+
+lantern	_pants: 0/618
+
+lantern	Robert Krimen: 0/470
+
+Commits per developer affecting microbenchmark files in lantern	 are 23,158,1,5,1,2,2,15,12,7,15,20,10
+
+
+go-flagz has 1 benchmarkers	 out of 5 committers
+
+Top 5 committers of 	 go-flagz are 
+
+go-flagz	Michal Witkowski: 8/71
+
+go-flagz	GitHub: 0/11
+
+go-flagz	Mark Nevill: 0/4
+
+go-flagz	Jonathan Boulle: 0/1
+
+go-flagz	Miek Gieben: 0/1
+
+Commits per developer affecting microbenchmark files in go-flagz	 are 8
+
+
+gosl has 1 benchmarkers	 out of 8 committers
+
+Top 5 committers of 	 gosl are 
+
+gosl	Dorival Pedroso: 5/2168
+
+gosl	Raul Durand: 0/21
+
+gosl	GitHub: 0/10
+
+gosl	Yunpeng Zhang: 0/2
+
+gosl	The Gitter Badger: 0/1
+
+Commits per developer affecting microbenchmark files in gosl	 are 5
+
+
+elastic has 1 benchmarkers	 out of 23 committers
+
+Top 5 committers of 	 elastic are 
+
+elastic	Oliver Eilhard: 1/774
+
+elastic	GitHub: 0/13
+
+elastic	Nicholas Wolff: 0/5
+
+elastic	Clark, Peter: 0/4
+
+elastic	Eli Reisman: 0/3
+
+Commits per developer affecting microbenchmark files in elastic	 are 1
+
+
+lmdb-go has 1 benchmarkers	 out of 18 committers
+
+Top 5 committers of 	 lmdb-go are 
+
+lmdb-go	Bryan Matsuo: 20/522
+
+lmdb-go	Ferenc Szalai: 0/45
+
+lmdb-go	GitHub: 0/18
+
+lmdb-go	Lorenz Bauer: 0/6
+
+lmdb-go	Ben Johnson: 0/5
+
+Commits per developer affecting microbenchmark files in lmdb-go	 are 20
+
+
+ybc has 1 benchmarkers	 out of 3 committers
+
+Top 5 committers of 	 ybc are 
+
+ybc	Aliaksandr Valialkin: 30/624
+
+ybc	valyala: 0/2
+
+ybc	Mikkel Kamstrup Erlandsen: 0/1
+
+Commits per developer affecting microbenchmark files in ybc	 are 30
+
+
+riscv-go has 53 benchmarkers	 out of 99 committers
+
+Top 5 committers of 	 riscv-go are 
+
+riscv-go	Russ Cox: 128/7579
+
+riscv-go	Rob Pike: 42/3408
+
+riscv-go	Brad Fitzpatrick: 104/3031
+
+riscv-go	Robert Griesemer: 33/2926
+
+riscv-go	Ian Lance Taylor: 62/1640
+
+Commits per developer affecting microbenchmark files in riscv-go	 are 68,16,14,7,1,10,1,1,104,9,18,1,5,1,1,7,1,33,15,15,28,128,5,3,13,62,8,3,20,32,1,4,1,8,42,6,18,3,34,14,22,2,29,2,4,38,1,3,1,2,171,2,3
+
+
+engo has 1 benchmarkers	 out of 27 committers
+
+Top 5 committers of 	 engo are 
+
+engo	Joseph Hager: 0/204
+
+engo	Harrison Shoebridge: 0/99
+
+engo	Etienne Bruines: 0/96
+
+engo	Harrison: 0/95
+
+engo	GitHub: 0/76
+
+Commits per developer affecting microbenchmark files in engo	 are 1
+
+
+tile38 has 1 benchmarkers	 out of 14 committers
+
+Top 5 committers of 	 tile38 are 
+
+tile38	Josh Baker: 6/345
+
+tile38	GitHub: 0/47
+
+tile38	Alex Roitman: 0/14
+
+tile38	w1n2k: 0/9
+
+tile38	Luke Gordon: 0/6
+
+Commits per developer affecting microbenchmark files in tile38	 are 6
+
+
+etcd has 38 benchmarkers	 out of 431 committers
+
+Top 5 committers of 	 etcd are 
+
+etcd	Xiang Li: 88/3065
+
+etcd	Yicheng Qin: 48/1956
+
+etcd	GitHub: 21/1886
+
+etcd	Gyu-Ho Lee: 16/1554
+
+etcd	Anthony Romano: 17/1321
+
+Commits per developer affecting microbenchmark files in etcd	 are 2,3,1,21,2,1,1,8,1,1,14,1,2,1,1,1,1,1,1,1,1,3,1,48,1,88,17,2,1,6,1,3,2,1,1,1,16,1
+
+
+dingo has 1 benchmarkers	 out of 5 committers
+
+Top 5 committers of 	 dingo are 
+
+dingo	mission-liao: 2/182
+
+dingo	ml: 0/12
+
+dingo	mission.liao: 0/9
+
+dingo	GitHub: 0/2
+
+dingo	Athiwat Chunlakhan: 0/1
+
+Commits per developer affecting microbenchmark files in dingo	 are 2
+
+
+morgoth has 2 benchmarkers	 out of 6 committers
+
+Top 5 committers of 	 morgoth are 
+
+morgoth	Nathaniel Cook: 7/259
+
+morgoth	GitHub: 1/4
+
+morgoth	Matthias Endler: 0/2
+
+morgoth	Bruno Bigras: 0/1
+
+morgoth	morgana: 0/1
+
+Commits per developer affecting microbenchmark files in morgoth	 are 1,7
+
+
+besticon has 1 benchmarkers	 out of 4 committers
+
+Top 5 committers of 	 besticon are 
+
+besticon	Matthias Luedtke: 2/272
+
+besticon	Matthias Lüdtke: 0/9
+
+besticon	Erik Rothoff Andersson: 0/2
+
+besticon	GitHub: 0/2
+
+Commits per developer affecting microbenchmark files in besticon	 are 2
+
+
+tidb has 7 benchmarkers	 out of 78 committers
+
+Top 5 committers of 	 tidb are 
+
+tidb	GitHub: 15/1440
+
+tidb	Ewan Chou: 1/973
+
+tidb	Shen Li: 0/600
+
+tidb	siddontang: 0/576
+
+tidb	qiuyesuifeng: 0/339
+
+Commits per developer affecting microbenchmark files in tidb	 are 4,15,1,3,1,1,1
+
+
+appdash has 1 benchmarkers	 out of 20 committers
+
+Top 5 committers of 	 appdash are 
+
+appdash	Stephen Gutekanst: 1/364
+
+appdash	Chris Ramón: 0/74
+
+appdash	Quinn Slack: 0/44
+
+appdash	GitHub: 0/18
+
+appdash	Brandon Gonzalez: 0/11
+
+Commits per developer affecting microbenchmark files in appdash	 are 1
+
+
+badactor has 1 benchmarkers	 out of 2 committers
+
+Top 5 committers of 	 badactor are 
+
+badactor	Jared Folkins: 9/95
+
+badactor	GitHub: 0/2
+
+Commits per developer affecting microbenchmark files in badactor	 are 9
+
+
+gohper has 1 benchmarkers	 out of 6 committers
+
+Top 5 committers of 	 gohper are 
+
+gohper	aihui zhu: 8/293
+
+gohper	钟最龙: 0/1
+
+gohper	Santiago Castro: 0/1
+
+gohper	GitHub: 0/1
+
+gohper	Uwe Dauernheim: 0/1
+
+Commits per developer affecting microbenchmark files in gohper	 are 8
+
+
+gisp has 1 benchmarkers	 out of 2 committers
+
+Top 5 committers of 	 gisp are 
+
+gisp	Joseph Adams: 1/65
+
+gisp	Wei Sun: 0/1
+
+Commits per developer affecting microbenchmark files in gisp	 are 1
+
+
+sync_gateway has 3 benchmarkers	 out of 34 committers
+
+Top 5 committers of 	 sync_gateway are 
+
+sync_gateway	Jens Alfke: 0/631
+
+sync_gateway	Adam Fraser: 1/611
+
+sync_gateway	Traun Leyden: 3/379
+
+sync_gateway	Andrew Reslan: 0/360
+
+sync_gateway	GitHub: 1/244
+
+Commits per developer affecting microbenchmark files in sync_gateway	 are 1,1,3
+
+
+dat has 6 benchmarkers	 out of 9 committers
+
+Top 5 committers of 	 dat are 
+
+dat	Mario L Gutierrez: 31/117
+
+dat	Mario Gutierrez: 1/36
+
+dat	mgutz: 4/10
+
+dat	GeorgeErickson: 1/7
+
+dat	GitHub: 0/5
+
+Commits per developer affecting microbenchmark files in dat	 are 4,1,1,2,31,3
+
+
+sensorbee has 4 benchmarkers	 out of 12 committers
+
+Top 5 committers of 	 sensorbee are 
+
+sensorbee	Tobias Pfeiffer: 2/647
+
+sensorbee	Nobuyuki Kubota: 14/529
+
+sensorbee	TANAKA Daisuke: 0/237
+
+sensorbee	Shuzo Kashihara: 1/136
+
+sensorbee	Gentaro Watanabe: 5/64
+
+Commits per developer affecting microbenchmark files in sensorbee	 are 1,14,5,2
+
+
+go-in-practice has 1 benchmarkers	 out of 2 committers
+
+Top 5 committers of 	 go-in-practice are 
+
+go-in-practice	Matt Farina: 0/17
+
+go-in-practice	Matt Butcher: 1/7
+
+Commits per developer affecting microbenchmark files in go-in-practice	 are 1
+
+
+go-commons-pool has 1 benchmarkers	 out of 4 committers
+
+Top 5 committers of 	 go-commons-pool are 
+
+go-commons-pool	jolestar: 4/96
+
+go-commons-pool	lovedboy: 0/5
+
+go-commons-pool	GitHub: 0/5
+
+go-commons-pool	Mozes Magyar: 0/1
+
+Commits per developer affecting microbenchmark files in go-commons-pool	 are 4
+
+
+aerospike-client-go has 2 benchmarkers	 out of 38 committers
+
+Top 5 committers of 	 aerospike-client-go are 
+
+aerospike-client-go	Khosrow Afroozeh: 30/623
+
+aerospike-client-go	Ken Sedgwick: 0/14
+
+aerospike-client-go	Geert-Johan Riemer: 0/8
+
+aerospike-client-go	Chris Stivers: 1/8
+
+aerospike-client-go	anlhord: 0/5
+
+Commits per developer affecting microbenchmark files in aerospike-client-go	 are 1,30
+
+
+restic has 12 benchmarkers	 out of 106 committers
+
+Top 5 committers of 	 restic are 
+
+restic	Alexander Neumann: 46/2941
+
+restic	Pauline Middelink: 0/44
+
+restic	Florian Weingarten: 0/42
+
+restic	GitHub: 3/42
+
+restic	Matthieu Rakotojaona: 0/25
+
+Commits per developer affecting microbenchmark files in restic	 are 1,1,8,1,1,2,3,46,3,2,4,2
+
+
+automi has 1 benchmarkers	 out of 2 committers
+
+Top 5 committers of 	 automi are 
+
+automi	Vladimir Vivien: 2/138
+
+automi	GitHub: 0/2
+
+Commits per developer affecting microbenchmark files in automi	 are 2
+
+
+banshee has 3 benchmarkers	 out of 17 committers
+
+Top 5 committers of 	 banshee are 
+
+banshee	hit9: 14/952
+
+banshee	Chao Wang: 1/410
+
+banshee	panda: 0/102
+
+banshee	Zhao Jiangkun: 2/72
+
+banshee	GitHub: 0/61
+
+Commits per developer affecting microbenchmark files in banshee	 are 1,14,2
+
+
+antha has 7 benchmarkers	 out of 30 committers
+
+Top 5 committers of 	 antha are 
+
+antha	Michael Sadowski: 18/1110
+
+antha	gogogadgetbioprocess: 8/726
+
+antha	chr1sgrant: 9/576
+
+antha	GitHub: 8/573
+
+antha	ddn0: 12/502
+
+Commits per developer affecting microbenchmark files in antha	 are 3,18,9,8,8,12,3
+
+
+gopassivedns has 2 benchmarkers	 out of 3 committers
+
+Top 5 committers of 	 gopassivedns are 
+
+gopassivedns	Philip: 6/44
+
+gopassivedns	GitHub: 3/7
+
+gopassivedns	Hayden Parker: 0/1
+
+Commits per developer affecting microbenchmark files in gopassivedns	 are 3,6
+
+
+centrifugo has 4 benchmarkers	 out of 13 committers
+
+Top 5 committers of 	 centrifugo are 
+
+centrifugo	FZambia: 1/500
+
+centrifugo	Alexandr Emelin: 1/221
+
+centrifugo	Alexander Emelin: 4/75
+
+centrifugo	Klaus Post: 0/30
+
+centrifugo	GitHub: 2/27
+
+Commits per developer affecting microbenchmark files in centrifugo	 are 1,2,1,4
+
+
+go-datastructures has 15 benchmarkers	 out of 35 committers
+
+Top 5 committers of 	 go-datastructures are 
+
+go-datastructures	Dustin Hiatt: 19/282
+
+go-datastructures	dustinhiatt-wf: 15/105
+
+go-datastructures	Tyler Treat: 8/75
+
+go-datastructures	Alexander Campbell: 4/48
+
+go-datastructures	GitHub: 4/29
+
+Commits per developer affecting microbenchmark files in go-datastructures	 are 2,8,2,4,1,2,4,3,1,15,19,1,1,1,6
+
+
+dbr has 3 benchmarkers	 out of 11 committers
+
+Top 5 committers of 	 dbr are 
+
+dbr	Jonathan Novak: 6/72
+
+dbr	Tyler Smith: 4/38
+
+dbr	taylorchu: 1/38
+
+dbr	GitHub: 0/5
+
+dbr	Austin Taylor: 0/2
+
+Commits per developer affecting microbenchmark files in dbr	 are 4,1,6
+
+
+go.geo has 2 benchmarkers	 out of 15 committers
+
+Top 5 committers of 	 go.geo are 
+
+go.geo	Paul Mach: 21/146
+
+go.geo	GitHub: 0/13
+
+go.geo	Brandon Liu: 0/5
+
+go.geo	Lev Dragunov: 0/3
+
+go.geo	Anthony Regeda: 0/3
+
+Commits per developer affecting microbenchmark files in go.geo	 are 21,1
+
+
+easyjson has 3 benchmarkers	 out of 46 committers
+
+Top 5 committers of 	 easyjson are 
+
+easyjson	GitHub: 0/81
+
+easyjson	Victor Starodub: 2/48
+
+easyjson	Aleksandr Petrukhin: 0/29
+
+easyjson	Vadim Petrov: 0/14
+
+easyjson	Nicolas S. Dade: 0/13
+
+Commits per developer affecting microbenchmark files in easyjson	 are 1,2,2
+
+
+ssainterp has 1 benchmarkers	 out of 3 committers
+
+Top 5 committers of 	 ssainterp are 
+
+ssainterp	Elliott Stoneham: 2/11
+
+ssainterp	GitHub: 0/1
+
+ssainterp	Jason E. Aten: 0/1
+
+Commits per developer affecting microbenchmark files in ssainterp	 are 2
+
+
+gin has 5 benchmarkers	 out of 111 committers
+
+Top 5 committers of 	 gin are 
+
+gin	Manu Mtz-Almeida: 6/383
+
+gin	Javier Provecho Fernandez: 1/172
+
+gin	Bo-Yi Wu: 2/151
+
+gin	GitHub: 0/77
+
+gin	Manu Mtz.-Almeida: 0/66
+
+Commits per developer affecting microbenchmark files in gin	 are 1,2,6,1,2
+
+
+mist has 2 benchmarkers	 out of 12 committers
+
+Top 5 committers of 	 mist are 
+
+mist	Steve Domino: 8/99
+
+mist	Daniel Barney: 0/56
+
+mist	Greg Linton: 2/22
+
+mist	Sergey Romanov: 0/13
+
+mist	Lyon Hill: 0/10
+
+Commits per developer affecting microbenchmark files in mist	 are 8,2
+
+
+go-geoindex has 1 benchmarkers	 out of 3 committers
+
+Top 5 committers of 	 go-geoindex are 
+
+go-geoindex	kiro: 2/9
+
+go-geoindex	Daniel Cannon: 0/4
+
+go-geoindex	Paul Maseberg: 0/3
+
+Commits per developer affecting microbenchmark files in go-geoindex	 are 2
+
+
+BoomFilters has 1 benchmarkers	 out of 9 committers
+
+Top 5 committers of 	 BoomFilters are 
+
+BoomFilters	Tyler Treat: 1/103
+
+BoomFilters	mmirolim: 0/12
+
+BoomFilters	GitHub: 0/7
+
+BoomFilters	Alex Kahan: 0/6
+
+BoomFilters	Erik Dubbelboer: 0/2
+
+Commits per developer affecting microbenchmark files in BoomFilters	 are 1
+
+
+kit has 3 benchmarkers	 out of 112 committers
+
+Top 5 committers of 	 kit are 
+
+kit	Peter Bourgon: 4/605
+
+kit	GitHub: 0/172
+
+kit	Chris Hines: 3/88
+
+kit	Bas van Beek: 0/57
+
+kit	Brian Kassouf: 0/29
+
+Commits per developer affecting microbenchmark files in kit	 are 1,4,3
+
+
+imposm3 has 2 benchmarkers	 out of 14 committers
+
+Top 5 committers of 	 imposm3 are 
+
+imposm3	Oliver Tonnhofer: 25/778
+
+imposm3	GitHub: 2/11
+
+imposm3	ImreSamu: 0/6
+
+imposm3	Yohan Boniface: 0/3
+
+imposm3	Russ Garrett: 0/2
+
+Commits per developer affecting microbenchmark files in imposm3	 are 2,25
+
+
+bleve has 5 benchmarkers	 out of 45 committers
+
+Top 5 committers of 	 bleve are 
+
+bleve	Marty Schoch: 14/988
+
+bleve	Steve Yen: 4/326
+
+bleve	GitHub: 3/264
+
+bleve	Sreekanth Sivasankaran: 0/55
+
+bleve	Patrick Mezard: 0/36
+
+Commits per developer affecting microbenchmark files in bleve	 are 14,1,3,4,1
+
+
+gofrontend has 1 benchmarkers	 out of 2 committers
+
+Top 5 committers of 	 gofrontend are 
+
+gofrontend	Ian Lance Taylor: 31/2152
+
+gofrontend	Chris Manghane: 0/2
+
+Commits per developer affecting microbenchmark files in gofrontend	 are 31
+
+
+gotrade has 1 benchmarkers	 out of 2 committers
+
+Top 5 committers of 	 gotrade are 
+
+gotrade	Chao Yan: 1/32
+
+gotrade	Ilya Loginov: 0/1
+
+Commits per developer affecting microbenchmark files in gotrade	 are 1
+
+
+ini has 1 benchmarkers	 out of 14 committers
+
+Top 5 committers of 	 ini are 
+
+ini	Unknwon: 1/155
+
+ini	无闻: 0/23
+
+ini	lyobzik: 0/5
+
+ini	kuuyee: 0/4
+
+ini	woniu369: 0/3
+
+Commits per developer affecting microbenchmark files in ini	 are 1
+
+
+relax has 1 benchmarkers	 out of 3 committers
+
+Top 5 committers of 	 relax are 
+
+relax	arunthampi: 3/113
+
+relax	GitHub: 0/5
+
+relax	Arun Thampi: 0/2
+
+Commits per developer affecting microbenchmark files in relax	 are 3
+
+
+cockroach has 55 benchmarkers	 out of 200 committers
+
+Top 5 committers of 	 cockroach are 
+
+cockroach	GitHub: 241/7133
+
+cockroach	Tamir Duberstein: 25/2633
+
+cockroach	Peter Mattis: 21/2394
+
+cockroach	Tobias Schottdorf: 19/2233
+
+cockroach	Ben Darnell: 8/1240
+
+Commits per developer affecting microbenchmark files in cockroach	 are 41,27,8,5,1,7,1,19,8,9,21,4,1,1,1,9,4,14,25,1,7,9,1,1,241,4,1,1,1,6,1,6,14,25,28,4,1,1,6,1,32,4,35,9,2,1,3,1,32,1,2,2,22,1,2
+
+
+go has 48 benchmarkers	 out of 129 committers
+
+Top 5 committers of 	 go are 
+
+go	Russ Cox: 163/15290
+
+go	Rob Pike: 58/6828
+
+go	Brad Fitzpatrick: 139/6111
+
+go	Robert Griesemer: 43/5970
+
+go	Ian Lance Taylor: 65/3546
+
+Commits per developer affecting microbenchmark files in go	 are 4,3,25,118,65,5,6,28,18,11,2,2,1,6,1,6,13,2,58,6,6,1,2,15,139,13,21,24,67,2,5,1,2,14,1,43,40,2,25,21,1,163,76,4,312,5,8,2
+
+
+zoom has 5 benchmarkers	 out of 6 committers
+
+Top 5 committers of 	 zoom are 
+
+zoom	albrow: 10/345
+
+zoom	Alex Browne: 10/283
+
+zoom	stephenalexbrowne: 2/238
+
+zoom	GitHub: 0/3
+
+zoom	Matteo Parmi: 1/1
+
+Commits per developer affecting microbenchmark files in zoom	 are 1,2,10,10,1
+
+
+PeachPy has 1 benchmarkers	 out of 2 committers
+
+Top 5 committers of 	 PeachPy are 
+
+PeachPy	Marat Dukhan: 1/350
+
+PeachPy	GitHub: 0/10
+
+Commits per developer affecting microbenchmark files in PeachPy	 are 1
+
+
+tchannel-go has 3 benchmarkers	 out of 25 committers
+
+Top 5 committers of 	 tchannel-go are 
+
+tchannel-go	Prashant Varanasi: 16/1326
+
+tchannel-go	GitHub: 1/177
+
+tchannel-go	Akshay Shah: 3/116
+
+tchannel-go	Matt Mihic: 0/89
+
+tchannel-go	Junchao Wu: 0/63
+
+Commits per developer affecting microbenchmark files in tchannel-go	 are 1,16,3
+
+
+goparsec has 4 benchmarkers	 out of 7 committers
+
+Top 5 committers of 	 goparsec are 
+
+goparsec	prataprc: 5/129
+
+goparsec	GitHub: 1/6
+
+goparsec	leovailati: 3/5
+
+goparsec	Tom Paton: 1/3
+
+goparsec	The Gitter Badger: 0/1
+
+Commits per developer affecting microbenchmark files in goparsec	 are 5,1,1,3
+
+
+dgraph has 5 benchmarkers	 out of 31 committers
+
+Top 5 committers of 	 dgraph are 
+
+dgraph	Pawan Rawal: 1/613
+
+dgraph	Manish R Jain: 9/540
+
+dgraph	Ashwin Ramesh: 2/256
+
+dgraph	GitHub: 1/208
+
+dgraph	Janardhan Reddy: 0/162
+
+Commits per developer affecting microbenchmark files in dgraph	 are 1,1,9,2,3
+
+
+cgrates has 3 benchmarkers	 out of 29 committers
+
+Top 5 committers of 	 cgrates are 
+
+cgrates	DanB: 6/2951
+
+cgrates	Radu Ioan Fericean: 3/2647
+
+cgrates	Dan Christian Bogos: 0/477
+
+cgrates	GitHub: 0/201
+
+cgrates	TeoV: 0/118
+
+Commits per developer affecting microbenchmark files in cgrates	 are 6,3,2
+
+
+seagull has 1 benchmarkers	 out of 13 committers
+
+Top 5 committers of 	 seagull are 
+
+seagull	tobe: 2/228
+
+seagull	GitHub: 0/6
+
+seagull	Jari Schäfer: 0/4
+
+seagull	Julien Rottenberg: 0/3
+
+seagull	Morris Jobke: 0/2
+
+Commits per developer affecting microbenchmark files in seagull	 are 2
+
+
+mp3 has 2 benchmarkers	 out of 3 committers
+
+Top 5 committers of 	 mp3 are 
+
+mp3	Tristan Colgate-McFarlane: 3/10
+
+mp3	Tristan Colgate: 4/6
+
+mp3	Ghislain PUTOIS: 0/1
+
+Commits per developer affecting microbenchmark files in mp3	 are 4,3
+
+
+codetainer has 3 benchmarkers	 out of 7 committers
+
+Top 5 committers of 	 codetainer are 
+
+codetainer	Jen Andre: 7/107
+
+codetainer	Dustin Willis Webber: 4/24
+
+codetainer	Soshi Katsuta: 1/3
+
+codetainer	Artiom Vasiliev: 0/2
+
+codetainer	GitHub: 0/2
+
+Commits per developer affecting microbenchmark files in codetainer	 are 7,1,4
+
+
+struc has 1 benchmarkers	 out of 1 committers
+
+Top 5 committers of 	 struc are 
+
+struc	Ryan Hileman: 6/78
+
+Commits per developer affecting microbenchmark files in struc	 are 6
+
+
+form has 1 benchmarkers	 out of 6 committers
+
+Top 5 committers of 	 form are 
+
+form	joeybloggs: 3/84
+
+form	Dean Karn: 0/12
+
+form	GitHub: 0/11
+
+form	Toan Nguyen: 0/1
+
+form	vpoturaev: 0/1
+
+Commits per developer affecting microbenchmark files in form	 are 3
+
+
+go-micro has 2 benchmarkers	 out of 28 committers
+
+Top 5 committers of 	 go-micro are 
+
+go-micro	Asim: 1/507
+
+go-micro	Asim Aslam: 0/116
+
+go-micro	GitHub: 0/37
+
+go-micro	Jelmer Snoeck: 0/6
+
+go-micro	Scott Finlay: 0/6
+
+Commits per developer affecting microbenchmark files in go-micro	 are 1,1
+
+
+go-chromath has 1 benchmarkers	 out of 1 committers
+
+Top 5 committers of 	 go-chromath are 
+
+go-chromath	John K. Luebs: 2/6
+
+Commits per developer affecting microbenchmark files in go-chromath	 are 2
+
+
+tendermint has 12 benchmarkers	 out of 35 committers
+
+Top 5 committers of 	 tendermint are 
+
+tendermint	Ethan Buchman: 76/1285
+
+tendermint	Jae Kwon: 27/917
+
+tendermint	Anton Kaliaev: 12/379
+
+tendermint	GitHub: 21/376
+
+tendermint	Zach Ramsay: 5/100
+
+Commits per developer affecting microbenchmark files in tendermint	 are 2,1,1,4,2,21,76,2,12,5,27,1
+
+
+revel has 18 benchmarkers	 out of 125 committers
+
+Top 5 committers of 	 revel are 
+
+revel	Rob Figueiredo: 16/508
+
+revel	Brenden Soares: 3/165
+
+revel	Justin Li: 0/106
+
+revel	GitHub: 8/85
+
+revel	NotZippy: 15/74
+
+Commits per developer affecting microbenchmark files in revel	 are 3,1,2,1,1,8,1,1,4,1,16,1,15,3,1,1,1,1
+
+
+go-qrcode has 1 benchmarkers	 out of 11 committers
+
+Top 5 committers of 	 go-qrcode are 
+
+go-qrcode	Tom Harwood: 0/11
+
+go-qrcode	GitHub: 0/10
+
+go-qrcode	Deleplace: 0/4
+
+go-qrcode	shenwei356: 0/3
+
+go-qrcode	Asa: 0/2
+
+Commits per developer affecting microbenchmark files in go-qrcode	 are 1
+

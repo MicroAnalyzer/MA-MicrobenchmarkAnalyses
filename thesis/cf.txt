@@ -1,0 +1,326 @@
+Benchmarks: 3294	optimizations: 84
+
+RxJava  	0/100
+
+JavaLinuxNet  	0/0
+
+glowroot  	0/5
+
+protobuf-el  	0/0
+
+rxjava2-extras  	0/0
+
+core-ng-project  	0/0
+
+SparkJNI  	0/2
+
+java_in_examples  	2/49
+
+graylog-plugin-pipeline-processor  	0/10
+
+java  	0/2
+
+Trident  	0/8
+
+simple-binary-encoding  	0/4
+
+entity-system-benchmarks  	0/12
+
+oopsla15-artifact  	0/0
+
+gumtree  	0/1
+
+dropbox-sdk-java  	0/0
+
+zipkin  	1/54
+
+test-data-generator  	0/8
+
+ixjava  	0/11
+
+jvm-unsafe-utils  	0/3
+
+spring-boot-starter-netty  	0/7
+
+apollo  	0/1
+
+SquidLib  	2/143
+
+reveno  	0/1
+
+spring-cloud-sleuth  	0/15
+
+conscrypt  	0/7
+
+decimal4j  	1/102
+
+idea-gradle-dependencies-formatter  	0/0
+
+fixio  	0/0
+
+okio  	0/18
+
+singa  	0/0
+
+debop4k  	0/2
+
+directory-kerby  	0/2
+
+xstream  	0/18
+
+requery  	0/2
+
+java-perv  	1/37
+
+jmh-samples  	0/19
+
+flexmark-java  	2/4
+
+logstash-gelf  	0/16
+
+logback-ext  	0/2
+
+yangtools  	1/6
+
+SimpleFlatMapper  	0/43
+
+unsafe  	0/0
+
+RoaringBitmap  	0/203
+
+Microservices  	0/1
+
+bucket4j  	0/9
+
+geo  	0/0
+
+PRNG-Performance  	0/18
+
+graph_processing  	0/7
+
+jvm-serializer  	0/5
+
+gorilla-tsc  	0/4
+
+jvptree  	0/8
+
+grpc-java  	0/34
+
+uploader  	0/1
+
+jbrotli  	0/5
+
+jenetics  	1/43
+
+crl-stream  	0/4
+
+sparkey-java  	0/0
+
+javersion  	0/8
+
+akarnokd-misc  	0/380
+
+cryptolib  	0/8
+
+hash-bench  	1/3
+
+pinot  	2/31
+
+controller  	0/12
+
+fast-rng-java  	0/9
+
+RHub  	0/14
+
+xodus  	3/66
+
+gral  	0/1
+
+scalecube  	0/10
+
+viktor  	0/27
+
+completable-futures  	0/4
+
+crate  	1/30
+
+sqlg  	0/8
+
+rtree  	0/42
+
+hpack  	0/2
+
+jinjava  	0/4
+
+saga-lib  	0/10
+
+narchy  	0/2
+
+quick-csv-streamer  	0/5
+
+spectator  	1/38
+
+pcg-java  	0/4
+
+beam  	0/13
+
+100-Java-Concurrency-questions  	0/5
+
+traffic-shm  	0/0
+
+compactmap  	0/9
+
+jus  	0/0
+
+indexr  	0/27
+
+pgjdbc  	0/35
+
+Own-Programming-Language-Tutorial  	0/2
+
+cache2k-benchmark  	6/28
+
+blog  	0/5
+
+template-benchmark  	0/8
+
+cqrs-hotel  	0/6
+
+rut  	0/5
+
+notification  	0/6
+
+btreemap  	0/6
+
+hashmapTest  	0/1
+
+westcache  	0/2
+
+JCTools  	7/92
+
+neo4j-jdbc  	0/3
+
+h2o-3  	0/18
+
+motif  	0/4
+
+yauaa  	0/15
+
+benchmarks  	0/27
+
+zipkin-reporter-java  	0/10
+
+sbt-jmh  	0/0
+
+reactive-streams-commons  	0/140
+
+stringbench  	0/6
+
+tiny-async-java  	6/16
+
+logging-log4j2  	7/333
+
+RxJava2Extensions  	0/12
+
+jmh-profilers  	0/0
+
+mx  	0/1
+
+ohc  	0/8
+
+rtree-3d  	0/0
+
+silverflash  	1/6
+
+aprof  	0/0
+
+rolling-metrics  	0/57
+
+TridentSDK  	0/1
+
+sulky  	0/6
+
+druid  	2/145
+
+airlift  	0/3
+
+blixtser  	0/16
+
+fsqio  	0/4
+
+Event4J  	0/3
+
+reversegeocode  	0/4
+
+fast-select  	0/48
+
+audio-recognition  	0/0
+
+jbender  	0/1
+
+gflogger  	1/9
+
+parity  	1/7
+
+parallelism-benchmarks  	0/5
+
+artemis-odb  	0/1
+
+hppc  	0/5
+
+es4j  	0/4
+
+rxjava-extras  	0/0
+
+java-json-benchmark  	0/30
+
+cyclops-react  	1/25
+
+stagemonitor  	0/6
+
+caffeine  	4/37
+
+TinyPinyin  	0/4
+
+marklogic-jena  	0/1
+
+aircompressor  	0/2
+
+injector  	0/0
+
+paleo  	1/2
+
+netty  	6/159
+
+tchannel-java  	0/3
+
+graal-core  	3/60
+
+template-compiler  	0/27
+
+commcare-core  	0/1
+
+gs-collections  	12/451
+
+phreak-examples  	0/0
+
+eclipselink.runtime  	4/119
+
+siv-mode  	0/3
+
+commonmark-java  	0/0
+
+objenesis  	1/13
+
+json-avro-converter  	0/4
+
+blynk-server  	0/14
+
+rest-schemagen  	0/0
+
+cukedoctor  	0/1
+
+pushy  	1/2
+
+autolink-java  	1/1
+
