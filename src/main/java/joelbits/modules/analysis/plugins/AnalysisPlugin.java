@@ -4,6 +4,7 @@ import com.google.auto.service.AutoService;
 import joelbits.modules.analysis.plugins.mappers.*;
 import joelbits.modules.analysis.plugins.reducers.*;
 import joelbits.modules.analysis.plugins.spi.Analysis;
+import joelbits.modules.analysis.plugins.visitors.DeadCodeEliminationSourceCodeVisitor;
 import org.apache.hadoop.mapreduce.Mapper;
 import org.apache.hadoop.mapreduce.Reducer;
 
@@ -16,6 +17,10 @@ public class AnalysisPlugin implements Analysis {
                 return DeadCodeEliminationMapper.class;
             case "cf":
                 return ConstantFoldingMapper.class;
+            case "sourcedce":
+                return DeadCodeEliminationSourceCodeMapper.class;
+            case "sourcecf":
+                return ConstantFoldingSourceCodeMapper.class;
             case "configurations":
                 return BenchmarkConfigurationMapper.class;
             case "count":
@@ -40,6 +45,8 @@ public class AnalysisPlugin implements Analysis {
         switch (reducer) {
             case "dce":
             case "cf":
+            case "sourcedce":
+            case "sourcecf":
                 return BenchmarkOptimizationReducer.class;
             case "configurations":
             case "count":
